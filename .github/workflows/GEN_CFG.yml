@@ -1,4 +1,4 @@
-name: GEN_NODES
+name: GEN_CFG
 
 # on: workflow_dispatch
 on:

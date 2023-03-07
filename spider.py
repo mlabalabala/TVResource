@@ -36,7 +36,7 @@ async def getStoreHouse(url):
         sourceUrl = storeHouseDic['storeHouse'][0]['sourceUrl']
         jsonStr = await getText(session=s, url=sourceUrl)
 
-        with open(f'{curPath}/ou.json', 'w', encoding='utf8') as w:
+        with open(f'ou.json', 'w', encoding='utf8') as w:
             w.write(jsonStr)
         
         urlsDic = json.loads(jsonStr)
@@ -48,7 +48,7 @@ async def getStoreHouse(url):
 
         await asyncio.wait(tasks)
 
-        with open(f'{curPath}/source.json', 'w', encoding='utf8') as w:
+        with open(f'source.json', 'w', encoding='utf8') as w:
             w.write(json.dumps(myUrlDic, ensure_ascii=False))
 
 
@@ -67,7 +67,7 @@ async def config2File(s, u, n, i):
     global myUrlDic
     try:
         jsonStr = await getText(s, u)
-        with open(f'{curPath}/boxCfg/{i}.json', 'w', encoding='utf8') as w:
+        with open(f'boxCfg/{i}.json', 'w', encoding='utf8') as w:
             w.write(jsonStr)
         print(u, n)
         myUrlDic['urls'].append({'name': n, 'url': f'https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/{i}.json'})
