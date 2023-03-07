@@ -72,5 +72,5 @@ if __name__ == '__main__':
 
     curPath = os.path.dirname(__file__)
 
-    asyncio.run(getStoreHouse('https://raw.iqiq.io/mlabalabala/TVResource/storeHouse.json'))
+    asyncio.run(getStoreHouse('https://raw.iqiq.io/mlabalabala/TVResource/main/storeHouse.json'))
     # asyncio.run(getStoreHouse('http://tv.nxog.top/api.php?mz=xb&id=2&b=派大星'))
