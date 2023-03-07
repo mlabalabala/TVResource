@@ -1,27 +1,22 @@
 import asyncio
-from email import header
-from time import sleep
-from urllib import request
-from weakref import proxy
+from cmath import e
+from logging import exception
 import aiohttp
+from urllib import request
 
 import re
 import os
 import json
 
+import SilenceEventLoopClosed
+
 
 async def getText(session, url):
     print("请求url:", url)
-    async with session.get(url, verify_ssl=False, headers=h, proxy=p['http']) as res:
+    timeout = aiohttp.ClientTimeout(5)
+    async with session.get(url, verify_ssl=False, headers=h, proxy=p['http'], timeout=timeout) as res:
         ts = await res.text(encoding=res.charset if res.charset is not None else 'utf8')
         return ts
-
-
-async def main():
-    async with aiohttp.ClientSession() as session:
-        pass
-
-    pass
 
 
 async def getStoreHouse(url):
@@ -43,11 +38,22 @@ async def getStoreHouse(url):
 
         # 单仓
         sourceUrl = storeHouseDic['storeHouse'][0]['sourceUrl']
-        print(sourceUrl)
         jsonStr = await getText(session=s, url=sourceUrl)
+
+        with open(f'{curPath}/ou.json', 'w', encoding='utf8') as w:
+            w.write(jsonStr)
+        
         urlsDic = json.loads(jsonStr)
         urlDicList = urlsDic['urls']
-        print(urlDicList)
+
+        tasks = [
+            asyncio.create_task(config2File(s, urlDic['url'], urlDic['name'], index)) for index,urlDic in enumerate(urlDicList)
+        ]
+
+        await asyncio.wait(tasks)
+
+        with open(f'{curPath}/source.json', 'w', encoding='utf8') as w:
+            w.write(json.dumps(myUrlDic, ensure_ascii=False))
 
 
 def parseResult(result):
@@ -56,9 +62,28 @@ def parseResult(result):
     for resultSet in resultList:
         resultJsonStr = resultSet.result()
         # 正则处理json中的注释
-        resultJsonStr = re.sub(r'([^:]//.*\"?$)','',resultJsonStr, 0, re.MULTILINE)
+        resultJsonStr = reJsonString(resultJsonStr)
         l.append(json.loads(resultJsonStr))
     return l
+
+
+async def config2File(s, u, n, i):
+    global myUrlDic
+    try:
+        jsonStr = await getText(s, u)
+        with open(f'{curPath}/boxCfg/{i}.json', 'w', encoding='utf8') as w:
+            w.write(jsonStr)
+        print(u, n)
+        myUrlDic['urls'].append({'name': n, 'url': f'https://raw.iqiq.io/mlabalabala/TVResource/blob/main/boxCfg/{i}.json'})
+    # jsonStr = reJsonString(jsonStr)
+    except Exception:
+        print(u, ' ------> error')
+        
+
+
+def reJsonString(jsonStr):
+    return re.sub(r'([^:]//.*\"?$)','',jsonStr, 0, re.MULTILINE)
+
 
 
 if __name__ == '__main__':
@@ -69,8 +94,13 @@ if __name__ == '__main__':
     }
 
     p = {"http": None, "https": None}
+    # p = {"http": "http://127.0.0.1:10809"}
 
     curPath = os.path.dirname(__file__)
+    myUrlDic = {}
+    myUrlDic['urls'] = []
 
-    asyncio.run(getStoreHouse('https://raw.iqiq.io/mlabalabala/TVResource/main/storeHouse.json'))
-    # asyncio.run(getStoreHouse('http://tv.nxog.top/api.php?mz=xb&id=2&b=派大星'))
+    
+
+    # asyncio.run(getStoreHouse('https://raw.iqiq.io/mlabalabala/TVResource/main/storeHouse.json'))
+    asyncio.run(getStoreHouse('http://tv.nxog.top/api.php?mz=xb&id=2&b=派大星'))
