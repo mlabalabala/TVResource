@@ -3,10 +3,6 @@
     {
       "sourceName": "storeHouse",
       "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/source.json"
-    },
-    {
-      "sourceName": "ou",
-      "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/ou.json"
     }
   ]
 }
