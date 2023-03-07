@@ -43,9 +43,11 @@ async def getStoreHouse(url):
 
         # 单仓
         sourceUrl = storeHouseDic['storeHouse'][0]['sourceUrl']
+        print(sourceUrl)
         jsonStr = await getText(session=s, url=sourceUrl)
         urlsDic = json.loads(jsonStr)
         urlDicList = urlsDic['urls']
+        print(urlDicList)
 
 
 def parseResult(result):
@@ -70,4 +72,5 @@ if __name__ == '__main__':
 
     curPath = os.path.dirname(__file__)
 
-    asyncio.run(getStoreHouse('http://tv.nxog.top/api.php?mz=xb&id=2&b=派大星'))
+    asyncio.run(getStoreHouse('https://raw.iqiq.io/mlabalabala/TVResource/storeHouse.json'))
+    # asyncio.run(getStoreHouse('http://tv.nxog.top/api.php?mz=xb&id=2&b=派大星'))
