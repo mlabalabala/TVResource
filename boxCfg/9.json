@@ -1,0 +1,80 @@
+//🇨🇳欧歌2023-03-07 08:20:34整合本接口
+
+{
+"wallpaper":"./t/",
+"spider":"http://w1.nxog.top/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23","warningText":"公众号欧歌api，长期维护，切勿贩卖。",
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.nxog2.repl.co/m/tv/index.php"]}]}],
+"sites": [
+
+{"key":"drpy_js_榜单荐片","name":"❤更新:3/3❤2","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
+{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.nxog2.repl.co/m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"},
+
+
+
+
+
+{"key": "zhiboab1", "name": "🇨🇳太阳直播","type": 4,"api": "http://120.53.102.254/live2?url=http://111.67.196.181/mtv/zhibo.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboab2", "name": "🇨🇳俊佬直播","type": 4,"api": "http://120.53.102.254/live2?url=http://home.jundie.top:81/Cat/tv/live.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboab3", "name": "🇨🇳肥猫直播","type": 4,"api": "http://120.53.102.254/live2?url=http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/zb.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
+{"key": "zhiboa1", "name": "🇨🇳1号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/1.json?sign=sEahl00gqKdjvMklDSXapT3ja5tt7E76wV2C0JDN8Kc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa2", "name": "🇨🇳2号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/2.json?sign=sEahl00gqKdjvMklDSXapT3ja5tt7E76wV2C0JDN8Kc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa3", "name": "🇨🇳3号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/3.json?sign=0SlydqJvQc1ALXx40hvitDN_wfPo30-CdF_eLbCL0qQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa4", "name": "🇨🇳4号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/4.json?sign=YMqhRQYawzlnhoK-P_It55V44kYxglWoNYzD-c-RdLc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa5", "name": "🇨🇳5号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/5.json?sign=vVP6eb2QE2Vn6gcnbslSMvFz4iTMpDtigWiGSS6TciY=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa6", "name": "🇨🇳6号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/6.json?sign=PR2AzQtYHjtvRSJKooVUJsDHJyslKMSodrri7Ttp6VE=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa7", "name": "🇨🇳7号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/7.json?sign=EXSrC5CxJJyX148_JeBk9mJ1KoA5vnHYmm0bVPS5-HI=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa8", "name": "🇨🇳8号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/8.json?sign=kSrsksdxLU7JqchAjQcHpYPoH5KOFU0j-6aQKIn1x-A=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa9", "name": "🇨🇳9号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/9.json?sign=d57hPxyAwyaWlytCkh9AOmCgn2onEL_7I8rJJOwmY78=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa10", "name": "🇨🇳10号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/10.json?sign=zObNKS9p57_MeCPTqk_kMRe2Ws5Xye-WPWiQTXLY3Sw=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa11", "name": "🇨🇳11号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/11.json?sign=KeFYPk6NUcioqg3AG3QR4g3XM2W8Ac1w5sfaFriJGMo=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa12", "name": "🇨🇳12号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/12.json?sign=h3juZVSDaRDkhNFiyaNC39nOIFxerqEMYqf-KPEV2EA=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa13", "name": "🇨🇳13号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/13.json?sign=QAxuk5hv_LQVxmwp5y_FmhxLc2oGxT898JwJsXcqzUA=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa14", "name": "🇨🇳14号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/14.json?sign=iQyc0JQXwg2VOmZdw0CylSkJ1rPOLdiplXpRv_b3GIM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa15", "name": "🇨🇳15号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/15.json?sign=v1Yv2wGuvNYu059nWX5lQIZgiD12B2HZvrLUvIkU3rM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa15", "name": "🇨🇳15号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/16.json?sign=QGBXNj-6LmSBcHb2f19OFb8o-cYlINPP_sQGPWNoiCM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa16", "name": "🇨🇳16号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/17.json?sign=vsq1EoIGz8qpYIw1CGg-CUzmILwgYi4EMOZAy5h_tOk=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa17", "name": "🇨🇳17号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/18.json?sign=WzYkh0GjGih0PMaFDhnp61HualNpvKlDMt2hiTp7BrQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa18", "name": "🇨🇳18号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/18.json?sign=WzYkh0GjGih0PMaFDhnp61HualNpvKlDMt2hiTp7BrQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa19", "name": "🇨🇳19号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/19.json?sign=RS-fCWl3fPEWXl13RatC_TDh9ShdnBNTN-HE6I498Ik=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa20", "name": "🇨🇳20号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/20.json?sign=A5aEJchUCT0X2LCc72n2VDUvL5v7z6WW6RPU_nZICTQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
+
+{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"}
+
+],
+
+
+
+
+
+"parses":[
+{"name":"Web聚合","type":3,"url":"Web"},
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+
+
+
+
+
+	
+{"name":"1-B站","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"2-yparse","type":0,"url":"https://jx.yparse.com/index.php?url="},
+{"name":"3-13tv","type":0,"url":"http://www.13tv.top/label/v.html?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"4-wp","type":0,"url":"http://api.wpsseo.cn/?v="},
+{"name":"5-yh","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
+{"name":"6-ai","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"7-5g","type":0,"url":"https://sb.5gseo.net/?url="},
+{"name":"8-全民","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","9-芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"10-诺讯","url":"https://www.nxflv.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","11-mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"12-虾米","url":"https://dm.xmflv.com:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"ckflv","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"pan解析","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+
+{"name":"Json轮询","type":2,"url":"Sequence"}
+
+
+],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
