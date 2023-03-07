@@ -1,8 +1,5 @@
 import asyncio
-from cmath import e
-from logging import exception
 import aiohttp
-from urllib import request
 
 import re
 import os
@@ -35,7 +32,6 @@ async def getStoreHouse(url):
         # result, padding = await asyncio.wait(tasks)
         # urlsDicList = parseResult(result)
         # print(urlsDicList)
-
         # 单仓
         sourceUrl = storeHouseDic['storeHouse'][0]['sourceUrl']
         jsonStr = await getText(session=s, url=sourceUrl)
@@ -74,7 +70,7 @@ async def config2File(s, u, n, i):
         with open(f'{curPath}/boxCfg/{i}.json', 'w', encoding='utf8') as w:
             w.write(jsonStr)
         print(u, n)
-        myUrlDic['urls'].append({'name': n, 'url': f'https://raw.iqiq.io/mlabalabala/TVResource/blob/main/boxCfg/{i}.json'})
+        myUrlDic['urls'].append({'name': n, 'url': f'https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/{i}.json'})
     # jsonStr = reJsonString(jsonStr)
     except Exception:
         print(u, ' ------> error')
