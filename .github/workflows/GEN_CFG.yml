@@ -31,7 +31,7 @@ jobs:
         with:
           author_name: GITHUB_GENERATOR
           author_email: 1842074134@qq.com
-          message: "u"
+          message: "Update"
           add: "*.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
