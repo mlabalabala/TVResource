@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "storeHouse",
-      "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/source.json"
+      "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/source.json"
     }
   ]
 }
