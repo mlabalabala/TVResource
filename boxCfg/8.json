@@ -1,13 +1,13 @@
-//🇨🇳欧歌2023-03-07 08:20:37整合本接口
+//🇨🇳欧歌2023-03-09 03:56:51整合本接口
 
 {
 "wallpaper":"./t/",
 "spider":"http://w1.nxog.top/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23","warningText":"公众号欧歌api，长期维护，切勿贩卖。",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.nxog2.repl.co/m/tv/index.php"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.ouhaibo3.repl.co/m/tv/index.php"]}]}],
 "sites": [
 
-{"key":"drpy_js_榜单荐片","name":"❤更新:3/3❤2","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
-{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.nxog2.repl.co/m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:3/8❤5","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
+{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.ouhaibo3.repl.co/m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"},
 
 
 
@@ -20,7 +20,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tv.nxog2.repl.co/m/a3/1.json"
+			"ext": "http://tv.ouhaibo3.repl.co/m/a3/1.json"
 		},
 		
 {
@@ -31,7 +31,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tv.nxog2.repl.co/m/a3/2.json"
+			"ext": "http://tv.ouhaibo3.repl.co/m/a3/2.json"
 		},
 		
 {
@@ -42,7 +42,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tv.nxog2.repl.co/m/a3/3.json"
+			"ext": "http://tv.ouhaibo3.repl.co/m/a3/3.json"
 		},
 	
 {
@@ -53,31 +53,31 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tv.nxog2.repl.co/m/a3/4.json"
+			"ext": "http://tv.ouhaibo3.repl.co/m/a3/4.json"
 		},
 		
 		 {"key":"🅱️哔哩套餐〔1080〕","name":"🅱️哔哩套餐〔1080〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-  {"key":"csp_BBB","name":"🅱️哔哩套餐🥮","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog2.repl.co/m/Bilibili/bili.php"},
-{"key": "Bili","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/哔哩.php"},
-{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/软件教程.php"}, 
-{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/演唱会.php"}, 
-{"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/戏曲.php"},
-{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/菜单.php"}, 
-{"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/球球.php"}, 
-{"key": "UP主","name": "🎮UP主","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/UP主.php"},
-{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/MTV.php"},    
-{"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/美食.php"},    
-{"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/学堂.php"}, 
-{"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/少儿教育.php"},
-{"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/小学课堂.php"},
-{"key": "初中课堂","name": "🅰️初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/初中课堂.php"},
-{"key": "高中课堂","name": "🅰️高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog2.repl.co/m/Bilibili/高中课堂.php"},
+  {"key":"csp_BBB","name":"🅱️哔哩套餐🥮","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.ouhaibo3.repl.co/m/Bilibili/bili.php"},
+{"key": "Bili","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/哔哩.php"},
+{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/软件教程.php"}, 
+{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/演唱会.php"}, 
+{"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/戏曲.php"},
+{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/菜单.php"}, 
+{"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/球球.php"}, 
+{"key": "UP主","name": "🎮UP主","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/UP主.php"},
+{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/MTV.php"},    
+{"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/美食.php"},    
+{"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/学堂.php"}, 
+{"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/少儿教育.php"},
+{"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/小学课堂.php"},
+{"key": "初中课堂","name": "🅰️初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/初中课堂.php"},
+{"key": "高中课堂","name": "🅰️高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo3.repl.co/m/Bilibili/高中课堂.php"},
 
   
 
 
-{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"}
+{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"}
 
 ],
 

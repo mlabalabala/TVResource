@@ -1,19 +1,19 @@
-//🇨🇳欧歌2023-03-07 08:20:36整合本接口
+//🇨🇳欧歌2023-03-09 03:56:45整合本接口
 
 {
 "wallpaper":"./t/",
-"spider":"http://w1.nxog.top/d/tvbox/jar/0306.jar?sign=vNCNGegBXgo-w6_zLIwMyX8RU1inoPjaiGBqTpJ20Y4=:0;md5;af9342c3e51acec3aa8d79b0c4a0ba43","warningText":"公众号欧歌api，长期维护，切勿贩卖。",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.nxog2.repl.co/m/tv/index.php"]}]}],
+"spider":"http://w1.nxog.top/d/tvbox/jar/fan0308.jar?sign=mOsJR4HQXfpwmvD9vcXLwoAlVJOfGF4zkIQXE_OfaO0=:0;md5;a636612fad3f047f7df1690f8b4cfde4","warningText":"公众号欧歌api，长期维护，切勿贩卖。",
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.ouhaibo3.repl.co/m/tv/index.php"]}]}],
 "sites": [
 
-{"key":"drpy_js_榜单荐片","name":"❤更新:3/3❤2","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
-{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.nxog2.repl.co/m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:3/8❤5","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
+{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.ouhaibo3.repl.co/m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"},
 
 
 
 
 
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"http://tv.nxog2.repl.co/m/js/lib/alist.min.js","ext":"http://tv.nxog2.repl.co/m/js/js/alist.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"http://tv.ouhaibo3.repl.co/m/js/lib/alist.min.js","ext":"http://tv.ouhaibo3.repl.co/m/js/js/alist.json"},
 
   {
       "key": "紙條",
@@ -79,7 +79,7 @@
 
 
 
-{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"}
+{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"}
 
 ],
 

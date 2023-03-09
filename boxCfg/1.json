@@ -1,33 +1,32 @@
-//🇨🇳欧歌2023-03-07 08:20:35整合本接口
+//🇨🇳欧歌2023-03-09 03:56:46整合本接口
 
 {
 "wallpaper":"./t/",
 "spider":"http://w1.nxog.top/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23","warningText":"公众号欧歌api，长期维护，切勿贩卖。",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.nxog2.repl.co/m/tv/index.php"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.ouhaibo3.repl.co/m/tv/index.php"]}]}],
 "sites": [
 
-{"key":"drpy_js_榜单荐片","name":"❤更新:3/3❤2","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
-{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.nxog2.repl.co/m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:3/8❤5","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
+{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.ouhaibo3.repl.co/m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"},
 
 
 
 
 
-
-{"key":"百影视频","name":"爬虫┃百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":""},
+{"key":"百影视频","name":"爬虫┃百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
  
-{"key":"Tutu_spider","name":"爬虫┃图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/","jar":""},
+{"key":"Tutu_spider","name":"爬虫┃图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
 
-{"key":"YQK_spider","name":"爬虫┃一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":""},
+{"key":"YQK_spider","name":"爬虫┃一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
 
-{"key":"DNSP_spider","name":"爬虫┃酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":""},
+{"key":"DNSP_spider","name":"爬虫┃酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
 
-{"key":"NoSearch_Bdys_spider","name":"爬虫┃哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":""},
+{"key":"NoSearch_Bdys_spider","name":"爬虫┃哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
 
-{"key":"booys_spider","name":"爬虫┃书影影视","api":"csp_BookYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":""},
+{"key":"booys_spider","name":"爬虫┃书影影视","api":"csp_BookYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
 
-{"key":"niketv_spider","name":"爬虫┃耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":""},
-{"key":"棉花影视","name":"爬虫┃棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":""},
+{"key":"niketv_spider","name":"爬虫┃耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
+{"key":"棉花影视","name":"爬虫┃棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":"http://w1.nxog.top/d/tvbox/jar/fix230228.jar?sign=CNCek5hNVsWz9nVVg6pKzffexR8jZlO2ZSgZ9mestAw=:0;md5;4f2d69de1285efa0a0e72c038de026e2"},
 
 
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1 },
@@ -70,26 +69,19 @@
 
 {"key":"Anime1","name":"爬虫┃Anime1","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"sp_s2","name":"🅿网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
 
 
-{"key":"csp_appysv2_APP影视","name":"↓APP影视↓","type":0,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0},
 
 
 {"key":"api┃快播","name":"api┃快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"changeable":1,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 
 {"key":"api┃百度","name":"api┃百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"filterable":0,"changeable":1,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 
-{"key":"sp_s2","name":"🅿网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
-
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"http://tv.nxog2.repl.co/m/js/lib/alist.min.js","ext":"http://tv.nxog2.repl.co/m/js/js/alist.json"},
-
-
-    
-    
 
 
 
-{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"}
+{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"}
 
 ],
 

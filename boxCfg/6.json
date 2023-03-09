@@ -1,13 +1,13 @@
-//🇨🇳欧歌2023-03-07 08:20:39整合本接口
+//🇨🇳欧歌2023-03-09 03:56:50整合本接口
 
 {
 "wallpaper":"./t/",
 "spider":"http://w1.nxog.top/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23","warningText":"公众号欧歌api，长期维护，切勿贩卖。",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.nxog2.repl.co/m/tv/index.php"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.ouhaibo3.repl.co/m/tv/index.php"]}]}],
 "sites": [
 
-{"key":"drpy_js_榜单荐片","name":"❤更新:3/3❤2","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
-{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.nxog2.repl.co/m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:3/8❤5","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
+{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.ouhaibo3.repl.co/m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"},
 
 
 
@@ -18,31 +18,31 @@
 {"key": "zhiboab3", "name": "🇨🇳肥猫直播","type": 4,"api": "http://120.53.102.254/live2?url=http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/zb.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-{"key": "zhiboa1", "name": "🇨🇳1号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/1.json?sign=sEahl00gqKdjvMklDSXapT3ja5tt7E76wV2C0JDN8Kc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa2", "name": "🇨🇳2号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/2.json?sign=sEahl00gqKdjvMklDSXapT3ja5tt7E76wV2C0JDN8Kc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa3", "name": "🇨🇳3号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/3.json?sign=0SlydqJvQc1ALXx40hvitDN_wfPo30-CdF_eLbCL0qQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa4", "name": "🇨🇳4号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/4.json?sign=YMqhRQYawzlnhoK-P_It55V44kYxglWoNYzD-c-RdLc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa5", "name": "🇨🇳5号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/5.json?sign=vVP6eb2QE2Vn6gcnbslSMvFz4iTMpDtigWiGSS6TciY=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa6", "name": "🇨🇳6号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/6.json?sign=PR2AzQtYHjtvRSJKooVUJsDHJyslKMSodrri7Ttp6VE=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa7", "name": "🇨🇳7号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/7.json?sign=EXSrC5CxJJyX148_JeBk9mJ1KoA5vnHYmm0bVPS5-HI=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa8", "name": "🇨🇳8号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/8.json?sign=kSrsksdxLU7JqchAjQcHpYPoH5KOFU0j-6aQKIn1x-A=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa9", "name": "🇨🇳9号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/9.json?sign=d57hPxyAwyaWlytCkh9AOmCgn2onEL_7I8rJJOwmY78=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa10", "name": "🇨🇳10号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/10.json?sign=zObNKS9p57_MeCPTqk_kMRe2Ws5Xye-WPWiQTXLY3Sw=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa11", "name": "🇨🇳11号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/11.json?sign=KeFYPk6NUcioqg3AG3QR4g3XM2W8Ac1w5sfaFriJGMo=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa12", "name": "🇨🇳12号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/12.json?sign=h3juZVSDaRDkhNFiyaNC39nOIFxerqEMYqf-KPEV2EA=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa13", "name": "🇨🇳13号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/13.json?sign=QAxuk5hv_LQVxmwp5y_FmhxLc2oGxT898JwJsXcqzUA=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa14", "name": "🇨🇳14号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/14.json?sign=iQyc0JQXwg2VOmZdw0CylSkJ1rPOLdiplXpRv_b3GIM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa15", "name": "🇨🇳15号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/15.json?sign=v1Yv2wGuvNYu059nWX5lQIZgiD12B2HZvrLUvIkU3rM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa15", "name": "🇨🇳15号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/16.json?sign=QGBXNj-6LmSBcHb2f19OFb8o-cYlINPP_sQGPWNoiCM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa16", "name": "🇨🇳16号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/17.json?sign=vsq1EoIGz8qpYIw1CGg-CUzmILwgYi4EMOZAy5h_tOk=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa17", "name": "🇨🇳17号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/18.json?sign=WzYkh0GjGih0PMaFDhnp61HualNpvKlDMt2hiTp7BrQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa18", "name": "🇨🇳18号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/18.json?sign=WzYkh0GjGih0PMaFDhnp61HualNpvKlDMt2hiTp7BrQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa19", "name": "🇨🇳19号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/19.json?sign=RS-fCWl3fPEWXl13RatC_TDh9ShdnBNTN-HE6I498Ik=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "zhiboa20", "name": "🇨🇳20号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.nxog2.repl.co/m//tv/20.json?sign=A5aEJchUCT0X2LCc72n2VDUvL5v7z6WW6RPU_nZICTQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa1", "name": "🇨🇳1号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/1.json?sign=sEahl00gqKdjvMklDSXapT3ja5tt7E76wV2C0JDN8Kc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa2", "name": "🇨🇳2号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/2.json?sign=sEahl00gqKdjvMklDSXapT3ja5tt7E76wV2C0JDN8Kc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa3", "name": "🇨🇳3号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/3.json?sign=0SlydqJvQc1ALXx40hvitDN_wfPo30-CdF_eLbCL0qQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa4", "name": "🇨🇳4号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/4.json?sign=YMqhRQYawzlnhoK-P_It55V44kYxglWoNYzD-c-RdLc=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa5", "name": "🇨🇳5号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/5.json?sign=vVP6eb2QE2Vn6gcnbslSMvFz4iTMpDtigWiGSS6TciY=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa6", "name": "🇨🇳6号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/6.json?sign=PR2AzQtYHjtvRSJKooVUJsDHJyslKMSodrri7Ttp6VE=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa7", "name": "🇨🇳7号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/7.json?sign=EXSrC5CxJJyX148_JeBk9mJ1KoA5vnHYmm0bVPS5-HI=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa8", "name": "🇨🇳8号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/8.json?sign=kSrsksdxLU7JqchAjQcHpYPoH5KOFU0j-6aQKIn1x-A=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa9", "name": "🇨🇳9号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/9.json?sign=d57hPxyAwyaWlytCkh9AOmCgn2onEL_7I8rJJOwmY78=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa10", "name": "🇨🇳10号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/10.json?sign=zObNKS9p57_MeCPTqk_kMRe2Ws5Xye-WPWiQTXLY3Sw=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa11", "name": "🇨🇳11号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/11.json?sign=KeFYPk6NUcioqg3AG3QR4g3XM2W8Ac1w5sfaFriJGMo=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa12", "name": "🇨🇳12号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/12.json?sign=h3juZVSDaRDkhNFiyaNC39nOIFxerqEMYqf-KPEV2EA=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa13", "name": "🇨🇳13号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/13.json?sign=QAxuk5hv_LQVxmwp5y_FmhxLc2oGxT898JwJsXcqzUA=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa14", "name": "🇨🇳14号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/14.json?sign=iQyc0JQXwg2VOmZdw0CylSkJ1rPOLdiplXpRv_b3GIM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa15", "name": "🇨🇳15号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/15.json?sign=v1Yv2wGuvNYu059nWX5lQIZgiD12B2HZvrLUvIkU3rM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa15", "name": "🇨🇳15号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/16.json?sign=QGBXNj-6LmSBcHb2f19OFb8o-cYlINPP_sQGPWNoiCM=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa16", "name": "🇨🇳16号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/17.json?sign=vsq1EoIGz8qpYIw1CGg-CUzmILwgYi4EMOZAy5h_tOk=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa17", "name": "🇨🇳17号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/18.json?sign=WzYkh0GjGih0PMaFDhnp61HualNpvKlDMt2hiTp7BrQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa18", "name": "🇨🇳18号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/18.json?sign=WzYkh0GjGih0PMaFDhnp61HualNpvKlDMt2hiTp7BrQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa19", "name": "🇨🇳19号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/19.json?sign=RS-fCWl3fPEWXl13RatC_TDh9ShdnBNTN-HE6I498Ik=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhiboa20", "name": "🇨🇳20号直播","type": 4,"api": "http://120.53.102.254/live2?url=http://tv.ouhaibo3.repl.co/m//tv/20.json?sign=A5aEJchUCT0X2LCc72n2VDUvL5v7z6WW6RPU_nZICTQ=:0","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 
-{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.nxog2.repl.co/m/MaooXX/欧歌聚合搜索.js"}
+{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"}
 
 ],
 
