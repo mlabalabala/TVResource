@@ -1,13 +1,13 @@
-//🇨🇳欧歌2023-03-09 03:56:48整合本接口
+//🇨🇳欧歌2023-03-14 15:48:35整合本接口
 
 {
 "wallpaper":"./t/",
 "spider":"","warningText":"公众号欧歌api，长期维护，切勿贩卖。",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.ouhaibo3.repl.co/m/tv/index.php"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=./tv/index.php"]}]}],
 "sites": [
 
-{"key":"drpy_js_榜单荐片","name":"❤更新:3/8❤5","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
-{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.ouhaibo3.repl.co/m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"},
+{"key":"drpy_js_榜单荐片","name":"❤更新:3/10❤tv.nxog.top","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"},
+{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "./js/drpy.js","ext": "./MaooXX/欧歌聚合搜索.js"},
 
 
 
@@ -20,7 +20,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_kunyu77.json"
+		"ext": "./plugin/py_kunyu77.json"
 	    },
     
     	{
@@ -31,7 +31,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_youer.json"
+            "ext" : "./plugin/py_youer.json"
         }, {
             "key" : "py_xiaoxue",
             "name" : "Py | 小学教育",
@@ -40,7 +40,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_xiaoxue.json"
+            "ext" : "./plugin/py_xiaoxue.json"
         }, {
             "key" : "py_czxx",
             "name" : "Py | 初中教育",
@@ -49,7 +49,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_czxx.json"
+            "ext" : "./plugin/py_czxx.json"
         }, {
             "key" : "py_gaozxx",
             "name" : "Py | 高中教育",
@@ -58,7 +58,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_gaozxx.json"
+            "ext" : "./plugin/py_gaozxx.json"
         }, {
             "key" : "py_xuqu1",
             "name" : "Py | 戏曲专栏",
@@ -67,7 +67,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_xuqu1.json"
+            "ext" : "./plugin/py_xuqu1.json"
         }, {
             "key" : "py_TYjs",
             "name" : "Py | 体育健身",
@@ -76,7 +76,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_TYjs.json"
+            "ext" : "./plugin/py_TYjs.json"
         }, {
             "key" : "py_xiangsh",
             "name" : "Py | 相声小品",
@@ -85,7 +85,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_xiangsh.json"
+            "ext" : "./plugin/py_xiangsh.json"
         },  
         {
             "key" : "py_yanchh",
@@ -95,7 +95,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_yanchh.json"
+            "ext" : "./plugin/py_yanchh.json"
         }, 
         {
             "key" : "py_MTV",
@@ -105,7 +105,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_MTV.json"
+            "ext" : "./plugin/py_MTV.json"
         }, {
             "key" : "py_Yinl2",
             "name" : "Py | B站音乐",
@@ -114,7 +114,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_Yinl2.json"
+            "ext" : "./plugin/py_Yinl2.json"
         }, 
 	
 
@@ -126,7 +126,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctv.json"
+            "ext" : "./plugin/py_cctv.json"
         }, {
             "key" : "py_cctvdy",
             "name" : "Py | 央视电影电视",
@@ -135,7 +135,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvdy.json"
+            "ext" : "./plugin/py_cctvdy.json"
         }, {
             "key" : "py_cctvjs",
             "name" : "Py | 央视军事",
@@ -144,7 +144,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvjs.json"
+            "ext" : "./plugin/py_cctvjs.json"
         }, {
             "key" : "py_cctvkj",
             "name" : "Py | 央视科教",
@@ -153,7 +153,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvkj.json"
+            "ext" : "./plugin/py_cctvkj.json"
         }, {
             "key" : "py_cctvny",
             "name" : "Py | 央视农业",
@@ -162,7 +162,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvny.json"
+            "ext" : "./plugin/py_cctvny.json"
         }, {
             "key" : "py_cctvse",
             "name" : "Py | 央视少儿",
@@ -171,7 +171,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvse.json"
+            "ext" : "./plugin/py_cctvse.json"
         }, {
             "key" : "py_cctvty",
             "name" : "Py | 央视体育",
@@ -180,7 +180,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvty.json"
+            "ext" : "./plugin/py_cctvty.json"
         }, {
             "key" : "py_cctvxq",
             "name" : "Py | 央视戏曲",
@@ -189,7 +189,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvxq.json"
+            "ext" : "./plugin/py_cctvxq.json"
         }, {
             "key" : "py_cctvxw",
             "name" : "Py | 央视新闻",
@@ -198,7 +198,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvxw.json"
+            "ext" : "./plugin/py_cctvxw.json"
         }, {
             "key" : "py_cctvyy",
             "name" : "Py | 央视音乐",
@@ -207,7 +207,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvyy.json"
+            "ext" : "./plugin/py_cctvyy.json"
         }, {
             "key" : "py_cctvzh",
             "name" : "Py | 央视综合",
@@ -216,7 +216,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvzh.json"
+            "ext" : "./plugin/py_cctvzh.json"
         }, {
             "key" : "py_cctvzy",
             "name" : "Py | 央视综艺",
@@ -225,7 +225,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_cctvzy.json"
+            "ext" : "./plugin/py_cctvzy.json"
         }, 
         
         
@@ -244,7 +244,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_lezhutv.json"
+		"ext": "./plugin/py_lezhutv.json"
 	},  
    	{
 		"key": "py_cyys",
@@ -254,7 +254,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_cyys.json"
+		"ext": "./plugin/py_cyys.json"
 	},
 	
 	{
@@ -265,7 +265,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_wmkk.json"
+		"ext": "./plugin/py_wmkk.json"
 	},{
 		"key": "py_voflix",
 		"name": "Py | Voflix",
@@ -274,7 +274,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_voflix.json"
+		"ext": "./plugin/py_voflix.json"
 	}, {
 		"key": "py_bilimd",
 		"name": "Py | B站影视",
@@ -283,7 +283,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_bilimd.json"
+		"ext": "./plugin/py_bilimd.json"
 	},  
 	 {
 		"key": "py_genmov",
@@ -293,7 +293,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_genmov.json"
+		"ext": "./plugin/py_genmov.json"
 	}, 
 	            {
             "key" : "py_yixi",
@@ -303,7 +303,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "http://tv.ouhaibo3.repl.co/m/plugin/py_yixi.json"
+            "ext" : "./plugin/py_yixi.json"
         },{
 		"key": "py_huya",
 		"name": "Py | 虎牙",
@@ -312,7 +312,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_huya.json"
+		"ext": "./plugin/py_huya.json"
 	}, {
 		"key": "py_douyu",
 		"name": "Py | 斗鱼",
@@ -321,7 +321,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_douyu.json"
+		"ext": "./plugin/py_douyu.json"
 	}, {
 		"key": "py_cokemv",
 		"name": "Py | COKE",
@@ -330,7 +330,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_cokemv.json"
+		"ext": "./plugin/py_cokemv.json"
 	}, {
 		"key": "py_xmaomi",
 		"name": "Py | 猫咪",
@@ -339,7 +339,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_xmaomi.json"
+		"ext": "./plugin/py_xmaomi.json"
 	},
    	
 	{
@@ -350,7 +350,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_douban.json"
+		"ext": "./plugin/py_douban.json"
 	}, 
  
 	{
@@ -361,7 +361,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_freezb.json"
+		"ext": "./plugin/py_freezb.json"
 	},
 	
 	
@@ -373,7 +373,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_jrskbs.json"
+		"ext": "./plugin/py_jrskbs.json"
 	}, 
 	
  
@@ -385,7 +385,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_libvio.json"
+		"ext": "./plugin/py_libvio.json"
 	}, 
 	
 	{
@@ -396,7 +396,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_bilibili.json"
+		"ext": "./plugin/py_bilibili.json"
 	}, {
 		"key": "py_bilivd",
 		"name": "Py | B站(带搜索)",
@@ -405,7 +405,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_bilivd.json"
+		"ext": "./plugin/py_bilivd.json"
 	},{
 		"key": "py_3qu",
 		"name": "Py | 3QU",
@@ -414,7 +414,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_3qu.json"
+		"ext": "./plugin/py_3qu.json"
 	},
 	{
 		"key": "py_if101",
@@ -424,7 +424,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_if101.json"
+		"ext": "./plugin/py_if101.json"
 	},
 	   
       
@@ -445,7 +445,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_alist.json"
+      "ext": "./plugin/py_alist.json"
         },
         
         
@@ -460,7 +460,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_bilivd.json"
+      "ext": "./plugin/py_bilivd.json"
         }, {
 		"key": "py_cctv",
 		"name": "Py | 央视",
@@ -469,7 +469,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_cctv.json"
+		"ext": "./plugin/py_cctv.json"
 	},{
 		"key": "py_cctv2",
 		"name": "Py | 央视2",
@@ -478,7 +478,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_cctv2.json"
+		"ext": "./plugin/py_cctv2.json"
 	},{
 		"key": "py_czspp",
 		"name": "Py | 厂长",
@@ -487,7 +487,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_czspp.json"
+		"ext": "./plugin/py_czspp.json"
 	}, {
 		"key": "py_star",
 		"name": "Py | 星光影视",
@@ -496,7 +496,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_star.json"
+		"ext": "./plugin/py_star.json"
 	}, {
 		"key": "py_koudaiys",
 		"name": "Py | 口袋影视",
@@ -505,7 +505,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_koudaiys.json"
+		"ext": "./plugin/py_koudaiys.json"
 	}, 
 	{
 		"key": "py_gitcafe",
@@ -515,7 +515,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_gitcafe.json"
+		"ext": "./plugin/py_gitcafe.json"
 	}, {
 		"key": "py_voflix",
 		"name": "Py | Voflix",
@@ -524,7 +524,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_voflix.json"
+		"ext": "./plugin/py_voflix.json"
 	}, {
 		"key": "py_gimytv",
 		"name": "Py | 剧迷",
@@ -533,7 +533,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_gimytv.json"
+		"ext": "./plugin/py_gimytv.json"
 	}, 
 	    {
 		"key": "py_genmov",
@@ -543,7 +543,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_genmov.json"
+		"ext": "./plugin/py_genmov.json"
 	    },
 	    {
 		"key": "py_cokemv",
@@ -553,7 +553,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_cokemv.json"
+		"ext": "./plugin/py_cokemv.json"
 	    },{
 		"key": "py_kuaikan",
 		"name": "Py | 快看影视",
@@ -562,7 +562,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_kuaikan.json"
+		"ext": "./plugin/py_kuaikan.json"
 	    },
 	    {
 		"key": "py_ali",
@@ -572,7 +572,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_ali.json"
+		"ext": "./plugin/py_ali.json"
 	    }, 
 		{
 			"key": "Yiso",
@@ -582,7 +582,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_yiso.json"
+			"ext": "./plugin/py_yiso.json"
 		}, 
 		{
 			"key": "Pansou",
@@ -592,7 +592,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_pansou.json"
+			"ext": "./plugin/py_pansou.json"
 	    },
 		{
 			"key": "Zhaozy",
@@ -602,11 +602,11 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://tv.ouhaibo3.repl.co/m/plugin/py_zhaozy.json"
+			"ext": "./plugin/py_zhaozy.json"
 	    },
 
 
-{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.ouhaibo3.repl.co/m/MaooXX/欧歌聚合搜索.js"}
+{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./js/drpy.js","ext": "./MaooXX/欧歌聚合搜索.js"}
 
 ],
 
@@ -624,19 +624,19 @@
 
 
 	
-{"name":"1-B站","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"2-yparse","type":0,"url":"https://jx.yparse.com/index.php?url="},
-{"name":"3-13tv","type":0,"url":"http://www.13tv.top/label/v.html?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"4-wp","type":0,"url":"http://api.wpsseo.cn/?v="},
-{"name":"5-yh","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
-{"name":"6-ai","type":0,"url":"https://jx.aidouer.net/?url="},
-{"name":"7-5g","type":0,"url":"https://sb.5gseo.net/?url="},
-{"name":"8-全民","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","9-芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"10-诺讯","url":"https://www.nxflv.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","11-mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"12-虾米","url":"https://dm.xmflv.com:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"ckflv","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"pan解析","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
-
+{"name":"1-B站","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"2-yparse","type":0,"url":"https://jx.yparse.com/index.php?url="},
+{"name":"3-13tv","type":0,"url":"http://www.13tv.top/label/v.html?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"4-wp","type":0,"url":"http://api.wpsseo.cn/?v="},
+{"name":"5-yh","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
+{"name":"6-ai","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"7-5g","type":0,"url":"https://sb.5gseo.net/?url="},
+{"name":"8-全民","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","9-芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"10-诺讯","url":"https://www.nxflv.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","11-mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"12-虾米","url":"https://dm.xmflv.com:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"ckflv","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"pan解析","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+
 {"name":"Json轮询","type":2,"url":"Sequence"}
 
 

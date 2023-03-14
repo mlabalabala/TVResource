@@ -10,12 +10,12 @@
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="]}]}],
 
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈免费接口，请勿贩售 公众号：宝盒BOX科技",
+            "name": "此版本停止维护，请于公众号：宝盒BOX科技 获取新版",
             "type": 3,
             "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext": "http://id.ganggang.live:63/js/js_drpy.js",
@@ -176,7 +176,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token.txt?sign=ICt6cNwyhrJNGu2fl-VX1WxwZ1lzwQDs3jBWdi7f-JU%3D%3A0",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token",
             "jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/%E4%BF%AE%E5%A4%8D%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB%E6%80%A5%E9%80%9F%E5%8A%A0%E8%BD%BD.jar"},
  {
             "key": "Zhaozy",
@@ -186,7 +186,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token.txt?sign=ICt6cNwyhrJNGu2fl-VX1WxwZ1lzwQDs3jBWdi7f-JU%3D%3A0",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token",
             "jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/%E4%BF%AE%E5%A4%8D%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB%E6%80%A5%E9%80%9F%E5%8A%A0%E8%BD%BD.jar"
         },
         {
@@ -197,7 +197,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token.txt?sign=ICt6cNwyhrJNGu2fl-VX1WxwZ1lzwQDs3jBWdi7f-JU%3D%3A0",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token",
             "jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/%E4%BF%AE%E5%A4%8D%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB%E6%80%A5%E9%80%9F%E5%8A%A0%E8%BD%BD.jar"
         },
         {
@@ -208,7 +208,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token.txt?sign=ICt6cNwyhrJNGu2fl-VX1WxwZ1lzwQDs3jBWdi7f-JU%3D%3A0",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token",
             "jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/%E4%BF%AE%E5%A4%8D%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB%E6%80%A5%E9%80%9F%E5%8A%A0%E8%BD%BD.jar"
         },
         {
@@ -219,7 +219,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token.txt?sign=ICt6cNwyhrJNGu2fl-VX1WxwZ1lzwQDs3jBWdi7f-JU%3D%3A0",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/101305/token",
             "jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/%E4%BF%AE%E5%A4%8D%E9%98%BF%E9%87%8C%E5%8E%9F%E7%94%BB%E6%80%A5%E9%80%9F%E5%8A%A0%E8%BD%BD.jar"
         },
 {"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -345,28 +345,6 @@
 			"filterable": 1,
 			"ext": "http://52bsj.vip:81/api/v3/file/get/61590/88%E7%9C%8B%E7%90%83.json?sign=J3XdftVlI-XzA7XxU2l7YDos4rEyMirQsH_eIxxPAv0%3D%3A0"
 		},
-
-
-//{"key": "555电影","name": "5️⃣555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://share.nite07.com/api/v3/file/source/10444/555.json?sign=8sknI0YOBdUoTnqlLxlY6vSTraw9Ou5A30Rw5Z4rZhk%3D%3A0"},
-{"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/789kp.json"},
-
-
-
-{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/dadagui.json"},
-{
-            "key" : "drpy_js_蜻蜓FM",
-            "name" : "📻蜻蜓FM",
-            "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%9C%BB%E8%9C%93FM.js"
-        },
-        {
-            "key" : "drpy_js_喜马拉雅",
-            "name" : "🌙喜马拉雅",
-            "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
-        },
         {
             "key" : "drpy_js_DJ音乐",
             "name" : "🎵DJ音乐",
@@ -375,8 +353,8 @@
             "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/DJ%E9%9F%B3%E4%B9%90.js"
         },
 
-    {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
-    {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
+    {"key":"22","name":"此版本停止维护","type":0,"api":""},
+    {"key":"18","name":"请于公众号 宝盒BOX科技 获取新版","type":0,"api":""}
 ],
 
 
