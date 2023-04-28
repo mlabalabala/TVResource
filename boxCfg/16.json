@@ -28,7 +28,7 @@
 		runModeIsProd:  true ,
 		customEmojis: {"codeberg":":codeberg:","git":":git:","gitea":":gitea:","github":":github:","gitlab":":gitlab:","gogs":":gogs:"},
 		useServiceWorker:  false ,
-		csrfToken: 'wK76msPY4BMkkoHUBMDaatMhZSE6MTY4MjY3OTg3NTU3MTgzNzE0Mw',
+		csrfToken: '7z4RnG88qgI44Nzyyy4Cx-gASjA6MTY4MjY4MDc1ODI5NDU3NjEzNw',
 		pageData: {},
 		notificationSettings: {"EventSourceUpdateTime":10000,"MaxTimeout":60000,"MinTimeout":10000,"TimeoutStep":10000}, 
 		enableTimeTracking:  true ,
@@ -160,7 +160,7 @@
 			
 		
 		
-			Page: <strong>2ms</strong>
+			Page: <strong>3ms</strong>
 			Template: <strong>0ms</strong>
 		
 	</div>
