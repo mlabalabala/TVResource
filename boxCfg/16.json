@@ -15,20 +15,19 @@
 
 	<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
 	<link rel="alternate icon" href="/assets/img/favicon.png" type="image/png">
-	<link rel="stylesheet" href="/assets/css/index.css?v=1.20.0~dev-601-g50133b02b">
+	<link rel="stylesheet" href="/assets/css/index.css?v=1.20.0~dev-790-g61ad4c607">
 	
 <script>
 	window.addEventListener('error', function(e) {window._globalHandlerErrors=window._globalHandlerErrors||[]; window._globalHandlerErrors.push(e);});
 	window.config = {
-		initCount: (window.config?.initCount ?? 0) + 1,
 		appUrl: 'https:\/\/gitea.com\/',
 		appSubUrl: '',
-		assetVersionEncoded: encodeURIComponent('1.20.0~dev-601-g50133b02b'), 
+		assetVersionEncoded: encodeURIComponent('1.20.0~dev-790-g61ad4c607'), 
 		assetUrlPrefix: '\/assets',
 		runModeIsProd:  true ,
 		customEmojis: {"codeberg":":codeberg:","git":":git:","gitea":":gitea:","github":":github:","gitlab":":gitlab:","gogs":":gogs:"},
 		useServiceWorker:  false ,
-		csrfToken: 'w3Ip4mJ7fIadHPjPZwE_wNfe8Jk6MTY4MzEyNDM2NjAzNzU3Njg2NA',
+		csrfToken: 'VYfmPbdCLZ1P720ilKPOh6OdDRE6MTY4NDIyNjgwNDYzNzE0NDM4Mw',
 		pageData: {},
 		notificationSettings: {"EventSourceUpdateTime":10000,"MaxTimeout":60000,"MinTimeout":10000,"TimeoutStep":10000}, 
 		enableTimeTracking:  true ,
@@ -46,7 +45,7 @@
 	
 	window.config.pageData = window.config.pageData || {};
 </script>
-<script src="/assets/js/webcomponents.js?v=1.20.0~dev-601-g50133b02b"></script>
+<script src="/assets/js/webcomponents.js?v=1.20.0~dev-790-g61ad4c607"></script>
 
 	<noscript>
 		<style>
@@ -63,7 +62,7 @@
 
 <meta property="og:site_name" content="Gitea: Git with a cup of tea">
 
-	<link rel="stylesheet" href="/assets/css/theme-auto.css?v=1.20.0~dev-601-g50133b02b">
+	<link rel="stylesheet" href="/assets/css/theme-auto.css?v=1.20.0~dev-790-g61ad4c607">
 
 
 </head>
@@ -76,7 +75,7 @@
 		
 
 		
-			<div class="ui top secondary stackable main menu following bar light no-vertical-tabs">
+			<div class="ui top secondary stackable main menu following bar light">
 				<nav class="ui container" id="navbar" aria-label="Navigation Bar">
 	
 	
@@ -128,7 +127,7 @@
 		<div class="ui divider"></div>
 		<br>
 		<p>The page you are trying to reach either <strong>does not exist</strong> or <strong>you are not authorized</strong> to view it.
-		<p>Gitea Version: 1.20.0&#43;dev-601-g50133b02b</p>
+		<p>Gitea Version: 1.20.0&#43;dev-790-g61ad4c607</p>
 	</div>
 </div>
 
@@ -150,13 +149,13 @@
 
 
 
-	<footer role="group" aria-label="Footer">
-	<div class="ui left" role="contentinfo" aria-label="About Software">
+	<footer class="page-footer" role="group" aria-label="Footer">
+	<div class="left-links" role="contentinfo" aria-label="About Software">
 		<a target="_blank" rel="noopener noreferrer" href="https://gitea.io">Powered by Gitea</a>
 		
 			Version:
 			
-				1.20.0&#43;dev-601-g50133b02b
+				1.20.0&#43;dev-790-g61ad4c607
 			
 		
 		
@@ -164,7 +163,7 @@
 			Template: <strong>0ms</strong>
 		
 	</div>
-	<div class="ui right links" role="group" aria-label="Links">
+	<div class="right-links" role="group" aria-label="Links">
 		<div class="ui dropdown upward language">
 			<span><svg viewBox="0 0 16 16" class="svg octicon-globe" width="16" height="16" aria-hidden="true"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"/></svg> English</span>
 			<div class="menu language-menu">
@@ -234,7 +233,7 @@
 
 
 
-	<script src="/assets/js/index.js?v=1.20.0~dev-601-g50133b02b" onerror="alert('Failed to load asset files from ' + this.src + '. Please make sure the asset files can be accessed.')"></script>
+	<script src="/assets/js/index.js?v=1.20.0~dev-790-g61ad4c607" onerror="alert('Failed to load asset files from ' + this.src + '. Please make sure the asset files can be accessed.')"></script>
 
 </body>
 </html>

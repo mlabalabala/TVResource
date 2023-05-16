@@ -10,7 +10,7 @@
 	<meta name="description" content="xiaopingguo" />
 	<meta name="keywords" content="go,git,self-hosted,gitea">
 	<meta name="referrer" content="no-referrer" />
-	<meta name="_csrf" content="pF2dPlnzJO4eWRv2iZFP73MeCcg6MTY4MzEyNDM2NjA5ODE2MTI0OA" />
+	<meta name="_csrf" content="fhVceGYKiygazcsTYj7CrCGJ3_s6MTY4NDIyNjgwNDYyODkzODY4Mg" />
 	<meta name="_suburl" content="" />
 	
 	
@@ -22,7 +22,7 @@
 			AppSubUrl: '',
 			StaticUrlPrefix: '',
 			UseServiceWorker:  true ,
-			csrf: 'pF2dPlnzJO4eWRv2iZFP73MeCcg6MTY4MzEyNDM2NjA5ODE2MTI0OA',
+			csrf: 'fhVceGYKiygazcsTYj7CrCGJ3_s6MTY4NDIyNjgwNDYyODkzODY4Mg',
 			HighlightJS: false,
 			SimpleMDE: false,
 			Tribute: false,
@@ -184,7 +184,7 @@
 			
 				<div class="repo-buttons">
 					<form method="post" action="/nbwzlyd/xiaopingguo/action/watch?redirect_to=%2fnbwzlyd%2fxiaopingguo%2fraw%2fbranch%2fmaster%2fxiaopingguo%2fxiaopingguo.json">
-						<input type="hidden" name="_csrf" value="pF2dPlnzJO4eWRv2iZFP73MeCcg6MTY4MzEyNDM2NjA5ODE2MTI0OA">
+						<input type="hidden" name="_csrf" value="fhVceGYKiygazcsTYj7CrCGJ3_s6MTY4NDIyNjgwNDYyODkzODY4Mg">
 						<div class="ui labeled button poping up" tabindex="0" data-content="Sign in to watch this repository." data-position="top center" data-variation="tiny">
 							<button type="submit" class="ui compact basic button" disabled>
 								<i class="iconfont mr-2xs icon-eye"></i>Watch
@@ -195,7 +195,7 @@
 						</div>
 					</form>
 					<form method="post" action="/nbwzlyd/xiaopingguo/action/star?redirect_to=%2fnbwzlyd%2fxiaopingguo%2fraw%2fbranch%2fmaster%2fxiaopingguo%2fxiaopingguo.json">
-						<input type="hidden" name="_csrf" value="pF2dPlnzJO4eWRv2iZFP73MeCcg6MTY4MzEyNDM2NjA5ODE2MTI0OA">
+						<input type="hidden" name="_csrf" value="fhVceGYKiygazcsTYj7CrCGJ3_s6MTY4NDIyNjgwNDYyODkzODY4Mg">
 						<div class="ui labeled button poping up" tabindex="0" data-content="Sign in to star this repository." data-position="top center" data-variation="tiny">
 							<button type="submit" class="ui compact basic button" disabled>
 								<i class="mr-2xs iconfont icon-star"></i>Star
@@ -215,7 +215,7 @@
 								<i class="mr-2xs iconfont icon-fork"></i>Fork
 							</a>
 							<a class="ui basic label" href="/nbwzlyd/xiaopingguo/forks">
-								12
+								14
 							</a>
 						</div>
 					

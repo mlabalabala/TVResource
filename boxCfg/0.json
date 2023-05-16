@@ -41,6 +41,19 @@
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
         },
+
+{
+         "key": "csp_appys_如意4K",
+         "name": "如意4K",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://cms.maoyingshi.cc/api.php/app/"
+      // "4k解析" = 前往 api.maoyingshi.cc 进行自助购买
+      //1080免费提供
+    },        
         
 {"key":"直播转点播1","name":"📡电视┃直播","type": 3,"api":"http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js","ext":"http://itvbox.cc/tvbox/云星日记/sh/js/直播.txt"},
 
@@ -87,7 +100,6 @@
 {"key":"csp_Bttoo","name":"🔺┃Btto┃影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
 {"key":"mtv_XBPQ_映迷影视","name":"🐾映迷影视〔SP〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/映迷影院.json"},
-
 
 
 
@@ -195,10 +207,10 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询",type":2,"url":"Sequence"},
 
-{"name":"猫影视json","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=2893307&key=hijsxCGHOPQSTUVWZ1&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+{"name":"免费猫影视json","type":1,"url":"https://www.itvbox.cc/api.maoyingshi.cc/api.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 //哥们你怎么天天来偷我接口，给你网址 api.maoyingshi.cc 你自己去买一个不香吗？
 
-{"name":"猫影视json③","type":1,"url":"https://www.itvbox.cc/bhc.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+//{"name":"猫影视json③","type":1,"url":"https://www.itvbox.cc/bhc.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
    {
     "name": "OKjx嗅探",
