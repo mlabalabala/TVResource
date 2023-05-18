@@ -1,1 +1,240 @@
-{"spider":"http://cdn.qiaoji8.com/fix0511.jar;md5;6847077f896f53976496662c3836f349","wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],"sites":[{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},{"key":"HDMOLI","name":"HDMOLI","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{"key":"mayiys_spider","name":"蚂蚁影视","api":"csp_Mayiys","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW"},{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},{"key":"NoSearch_Bdys_spider","name":"哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},{"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},{"key":"sliu_spider","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},{"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},{"key":"蓝光电影","name":"蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1},{"key":"神马电影","name":"神马电影","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},{"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},{"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},{"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},{"key":"NoSearch_Yj1211_spider","name":"直播聚合","api":"csp_Yj1211","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},{"key":"AliPanSou","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},{"key":"UPanSo","name":"优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},{"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},{"key":"Music_spider","name":"音乐欣赏","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":""}],"parses":[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},{"name":"巧技专属","type":1,"url":"http://pandown.pro/app/doubiekan.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},{"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}}],"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+<!DOCTYPE html>
+<html lang="en-US" class="theme-auto">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Page Not Found - Gitea: Git with a cup of tea</title>
+	<link rel="manifest" href="data:application/json;base64,eyJuYW1lIjoiR2l0ZWE6IEdpdCB3aXRoIGEgY3VwIG9mIHRlYSIsInNob3J0X25hbWUiOiJHaXRlYTogR2l0IHdpdGggYSBjdXAgb2YgdGVhIiwic3RhcnRfdXJsIjoiaHR0cHM6Ly9naXRlYS5jb20vIiwiaWNvbnMiOlt7InNyYyI6Imh0dHBzOi8vZ2l0ZWEuY29tL2Fzc2V0cy9pbWcvbG9nby5wbmciLCJ0eXBlIjoiaW1hZ2UvcG5nIiwic2l6ZXMiOiI1MTJ4NTEyIn0seyJzcmMiOiJodHRwczovL2dpdGVhLmNvbS9hc3NldHMvaW1nL2xvZ28uc3ZnIiwidHlwZSI6ImltYWdlL3N2Zyt4bWwiLCJzaXplcyI6IjUxMng1MTIifV19">
+	
+	<meta name="default-theme" content="auto">
+	<meta name="author" content="Gitea - Git with a cup of tea">
+	<meta name="description" content="Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go">
+	<meta name="keywords" content="go,git,self-hosted,gitea">
+	<meta name="referrer" content="no-referrer">
+
+
+	<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+	<link rel="alternate icon" href="/assets/img/favicon.png" type="image/png">
+	<link rel="stylesheet" href="/assets/css/index.css?v=1.20.0~dev-790-g61ad4c607">
+	
+<script>
+	window.addEventListener('error', function(e) {window._globalHandlerErrors=window._globalHandlerErrors||[]; window._globalHandlerErrors.push(e);});
+	window.config = {
+		appUrl: 'https:\/\/gitea.com\/',
+		appSubUrl: '',
+		assetVersionEncoded: encodeURIComponent('1.20.0~dev-790-g61ad4c607'), 
+		assetUrlPrefix: '\/assets',
+		runModeIsProd:  true ,
+		customEmojis: {"codeberg":":codeberg:","git":":git:","gitea":":gitea:","github":":github:","gitlab":":gitlab:","gogs":":gogs:"},
+		useServiceWorker:  false ,
+		csrfToken: '5Kj0V2s886iToyrS4QiJtaEhHuw6MTY4NDM3NjI3OTE5MTMyNTE1Nw',
+		pageData: {},
+		notificationSettings: {"EventSourceUpdateTime":10000,"MaxTimeout":60000,"MinTimeout":10000,"TimeoutStep":10000}, 
+		enableTimeTracking:  true ,
+		
+		mermaidMaxSourceCharacters:  5000 ,
+		
+		i18n: {
+			copy_success: 'Copied!',
+			copy_error: 'Copy failed',
+			error_occurred: 'An error occurred',
+			network_error: 'Network error',
+			remove_label_str: 'Remove item \u0022%s\u0022',
+		},
+	};
+	
+	window.config.pageData = window.config.pageData || {};
+</script>
+<script src="/assets/js/webcomponents.js?v=1.20.0~dev-790-g61ad4c607"></script>
+
+	<noscript>
+		<style>
+			.dropdown:hover > .menu { display: block; }
+			.ui.secondary.menu .dropdown.item > .menu { margin-top: 0; }
+		</style>
+	</noscript>
+
+	<meta property="og:title" content="Gitea: Git with a cup of tea">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="/assets/img/logo.png">
+	<meta property="og:url" content="https://gitea.com/">
+	<meta property="og:description" content="Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go">
+
+<meta property="og:site_name" content="Gitea: Git with a cup of tea">
+
+	<link rel="stylesheet" href="/assets/css/theme-auto.css?v=1.20.0~dev-790-g61ad4c607">
+
+
+</head>
+<body>
+	
+
+	<div class="full height">
+		<noscript>This website requires JavaScript.</noscript>
+
+		
+
+		
+			<div class="ui top secondary stackable main menu following bar light">
+				<nav class="ui container" id="navbar" aria-label="Navigation Bar">
+	
+	
+	<div class="item brand gt-sb">
+		<a href="/" aria-label="Home">
+			<img width="30" height="30" src="/assets/img/logo.svg" alt="Logo" aria-hidden="true">
+		</a>
+		<div class="gt-df gt-ac">
+			
+			<button class="ui icon button mobile-only" id="navbar-expand-toggle">
+				<svg viewBox="0 0 16 16" class="svg octicon-three-bars" width="16" height="16" aria-hidden="true"><path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"/></svg>
+			</button>
+		</div>
+	</div>
+
+	
+		<a class="item " href="/explore/repos">Explore</a>
+	
+
+	
+
+	
+
+
+	
+		<a class="item" target="_blank" rel="noopener noreferrer" href="https://docs.gitea.io">Help</a>
+		<div class="right stackable menu">
+			
+				<a class="item" href="/user/sign_up">
+					<svg viewBox="0 0 16 16" class="svg octicon-person" width="16" height="16" aria-hidden="true"><path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/></svg> Register
+				</a>
+			
+			<a class="item" rel="nofollow" href="/user/login?redirect_to=%2f52670576%2ftvbox%2fraw%2fbranch%2fmaster%2fysc.json">
+				<svg viewBox="0 0 16 16" class="svg octicon-sign-in" width="16" height="16" aria-hidden="true"><path d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 0 1 0 1.5h-2.5a.25.25 0 0 0-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 2 13.25Zm6.56 4.5h5.69a.75.75 0 0 1 0 1.5H8.56l1.97 1.97a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L6.22 8.53a.75.75 0 0 1 0-1.06l3.25-3.25a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734Z"/></svg> Sign In
+			</a>
+		</div>
+	
+</nav>
+
+			</div>
+		
+
+
+
+<div role="main" aria-label="Page Not Found" class="page-content ui container center gt-w-screen ">
+	
+	<div class="ui container center">
+		<p style="margin-top: 100px"><img src="/assets/img/404.png" alt="404"></p>
+		<div class="ui divider"></div>
+		<br>
+		<p>The page you are trying to reach either <strong>does not exist</strong> or <strong>you are not authorized</strong> to view it.
+		<p>Gitea Version: 1.20.0&#43;dev-790-g61ad4c607</p>
+	</div>
+</div>
+
+
+	
+
+	</div>
+
+	
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130935389-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130935389-1');
+</script>
+<script defer data-domain="gitea.com" src="https://plausible.io/js/plausible.js"></script>
+
+
+
+	<footer class="page-footer" role="group" aria-label="Footer">
+	<div class="left-links" role="contentinfo" aria-label="About Software">
+		<a target="_blank" rel="noopener noreferrer" href="https://gitea.io">Powered by Gitea</a>
+		
+			Version:
+			
+				1.20.0&#43;dev-790-g61ad4c607
+			
+		
+		
+			Page: <strong>2ms</strong>
+			Template: <strong>0ms</strong>
+		
+	</div>
+	<div class="right-links" role="group" aria-label="Links">
+		<div class="ui dropdown upward language">
+			<span><svg viewBox="0 0 16 16" class="svg octicon-globe" width="16" height="16" aria-hidden="true"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"/></svg> English</span>
+			<div class="menu language-menu">
+				
+					<a lang="id-ID" data-url="/?lang=id-ID" class="item ">Bahasa Indonesia</a>
+				
+					<a lang="de-DE" data-url="/?lang=de-DE" class="item ">Deutsch</a>
+				
+					<a lang="en-US" data-url="/?lang=en-US" class="item active selected">English</a>
+				
+					<a lang="es-ES" data-url="/?lang=es-ES" class="item ">Español</a>
+				
+					<a lang="fr-FR" data-url="/?lang=fr-FR" class="item ">Français</a>
+				
+					<a lang="it-IT" data-url="/?lang=it-IT" class="item ">Italiano</a>
+				
+					<a lang="lv-LV" data-url="/?lang=lv-LV" class="item ">Latviešu</a>
+				
+					<a lang="hu-HU" data-url="/?lang=hu-HU" class="item ">Magyar nyelv</a>
+				
+					<a lang="nl-NL" data-url="/?lang=nl-NL" class="item ">Nederlands</a>
+				
+					<a lang="pl-PL" data-url="/?lang=pl-PL" class="item ">Polski</a>
+				
+					<a lang="pt-PT" data-url="/?lang=pt-PT" class="item ">Português de Portugal</a>
+				
+					<a lang="pt-BR" data-url="/?lang=pt-BR" class="item ">Português do Brasil</a>
+				
+					<a lang="fi-FI" data-url="/?lang=fi-FI" class="item ">Suomi</a>
+				
+					<a lang="sv-SE" data-url="/?lang=sv-SE" class="item ">Svenska</a>
+				
+					<a lang="tr-TR" data-url="/?lang=tr-TR" class="item ">Türkçe</a>
+				
+					<a lang="cs-CZ" data-url="/?lang=cs-CZ" class="item ">Čeština</a>
+				
+					<a lang="el-GR" data-url="/?lang=el-GR" class="item ">Ελληνικά</a>
+				
+					<a lang="bg-BG" data-url="/?lang=bg-BG" class="item ">Български</a>
+				
+					<a lang="ru-RU" data-url="/?lang=ru-RU" class="item ">Русский</a>
+				
+					<a lang="uk-UA" data-url="/?lang=uk-UA" class="item ">Українська</a>
+				
+					<a lang="fa-IR" data-url="/?lang=fa-IR" class="item ">فارسی</a>
+				
+					<a lang="ml-IN" data-url="/?lang=ml-IN" class="item ">മലയാളം</a>
+				
+					<a lang="ja-JP" data-url="/?lang=ja-JP" class="item ">日本語</a>
+				
+					<a lang="zh-CN" data-url="/?lang=zh-CN" class="item ">简体中文</a>
+				
+					<a lang="zh-TW" data-url="/?lang=zh-TW" class="item ">繁體中文（台灣）</a>
+				
+					<a lang="zh-HK" data-url="/?lang=zh-HK" class="item ">繁體中文（香港）</a>
+				
+					<a lang="ko-KR" data-url="/?lang=ko-KR" class="item ">한국어</a>
+				
+			</div>
+		</div>
+		<a href="/assets/js/licenses.txt">Licenses</a>
+		<a href="/api/swagger">API</a>
+		
+	</div>
+</footer>
+
+
+
+
+	<script src="/assets/js/index.js?v=1.20.0~dev-790-g61ad4c607" onerror="alert('Failed to load asset files from ' + this.src + '. Please make sure the asset files can be accessed.')"></script>
+
+</body>
+</html>
+
