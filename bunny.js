@@ -42,7 +42,7 @@ const parseInterfaces =["https://im1907.top/?jx=", "https://jx.jsonplayer.com/pl
 * 以下代码勿动
 */
 // 视频网站(规则已定，不可随意更改)
-const videoSites = ["v.qq.com","tv.sohu.com","iqiyi.com","youku.com","mgtv.com","m.le.com","www.le.com","1905.com","pptv.com","bilibili.com"];
+const videoSites = ["v.qq.com","m.v.qq.com","tv.sohu.com","iqiyi.com","youku.com","mgtv.com","m.le.com","www.le.com","1905.com","pptv.com","bilibili.com"];
 const currentUrl = document.location.href;
 // 判断是否加载后续代码
 if (self != top) {
