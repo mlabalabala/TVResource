@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         通用会员视频解析
+// @name         视频解析
 // @namespace    https://viayoo.com/
 // @version      0.1
-// @homepageURL  https://app.viayoo.com/addons/66
-// @author       河丶蟹
+// @homepageURL  https://cdn.jsdelivr.net/gh/mlabalabala/TVResource@main/bunny.js
+// @author       Bunny
 // @run-at       document-start
 // @match        *
 // @grant        none
