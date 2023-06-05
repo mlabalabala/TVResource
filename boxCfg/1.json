@@ -19,11 +19,11 @@
 
 
 {
-"spider":"http://itvbox.cc/tvbox/云星日记/jar/ali.jpg;md5;ee239815f2b0e4220d76cd93ed8879fa",
+"spider":"http://jk.itvbox.cc:66/tvbox/云星日记/jar/ali.jpg;md5;ee239815f2b0e4220d76cd93ed8879fa",
 
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
-"wallpaper":"http://itvbox.cc/api.php",
+"wallpaper":"http://jk.itvbox.cc:66/api.php",
 
 
 	"lives": [{
@@ -35,7 +35,7 @@
 	}],
 	"sites": [ 
 	
-//{"key": "紙條","name": "📜纸条〔SP〕Q群：582874559","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "http://itvbox.cc/云星日记/jar/alitoken.txt"},
+//{"key": "紙條","name": "📜纸条〔SP〕Q群：582874559","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "http://jk.itvbox.cc:66/云星日记/jar/alitoken.txt"},
 //{"key":"csp_search_Zhaozy","name":"🐑┃资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
 //{"key":"csp_search_Upyunso","name":"🐐┃云搜〔仅搜索〕","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
 //{"key":"csp_search_Alips","name":"🦌┃盘搜〔仅搜索〕","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},

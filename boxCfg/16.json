@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US" class="theme-auto">
 <head>
-	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Page Not Found - Gitea: Git with a cup of tea</title>
 	<link rel="manifest" href="data:application/json;base64,eyJuYW1lIjoiR2l0ZWE6IEdpdCB3aXRoIGEgY3VwIG9mIHRlYSIsInNob3J0X25hbWUiOiJHaXRlYTogR2l0IHdpdGggYSBjdXAgb2YgdGVhIiwic3RhcnRfdXJsIjoiaHR0cHM6Ly9naXRlYS5jb20vIiwiaWNvbnMiOlt7InNyYyI6Imh0dHBzOi8vZ2l0ZWEuY29tL2Fzc2V0cy9pbWcvbG9nby5wbmciLCJ0eXBlIjoiaW1hZ2UvcG5nIiwic2l6ZXMiOiI1MTJ4NTEyIn0seyJzcmMiOiJodHRwczovL2dpdGVhLmNvbS9hc3NldHMvaW1nL2xvZ28uc3ZnIiwidHlwZSI6ImltYWdlL3N2Zyt4bWwiLCJzaXplcyI6IjUxMng1MTIifV19">
@@ -15,19 +14,18 @@
 
 	<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
 	<link rel="alternate icon" href="/assets/img/favicon.png" type="image/png">
-	<link rel="stylesheet" href="/assets/css/index.css?v=1.20.0~dev-790-g61ad4c607">
 	
 <script>
 	window.addEventListener('error', function(e) {window._globalHandlerErrors=window._globalHandlerErrors||[]; window._globalHandlerErrors.push(e);});
 	window.config = {
 		appUrl: 'https:\/\/gitea.com\/',
 		appSubUrl: '',
-		assetVersionEncoded: encodeURIComponent('1.20.0~dev-790-g61ad4c607'), 
+		assetVersionEncoded: encodeURIComponent('1.20.0~dev-930-g595e8abd6'), 
 		assetUrlPrefix: '\/assets',
 		runModeIsProd:  true ,
 		customEmojis: {"codeberg":":codeberg:","git":":git:","gitea":":gitea:","github":":github:","gitlab":":gitlab:","gogs":":gogs:"},
 		useServiceWorker:  false ,
-		csrfToken: 'Q5nFK6gg6BTGIHBjzowx5bOxfk06MTY4NDM3Njg3NzAyOTIwNjczNg',
+		csrfToken: 'V0qKyXJXwCUx16qghhDtew_ifPA6MTY4NTk4NTY4MzQ2MTAwODM2MA',
 		pageData: {},
 		notificationSettings: {"EventSourceUpdateTime":10000,"MaxTimeout":60000,"MinTimeout":10000,"TimeoutStep":10000}, 
 		enableTimeTracking:  true ,
@@ -45,7 +43,7 @@
 	
 	window.config.pageData = window.config.pageData || {};
 </script>
-<script src="/assets/js/webcomponents.js?v=1.20.0~dev-790-g61ad4c607"></script>
+<script src="/assets/js/webcomponents.js?v=1.20.0~dev-930-g595e8abd6"></script>
 
 	<noscript>
 		<style>
@@ -60,11 +58,13 @@
 	<meta property="og:url" content="https://gitea.com/">
 	<meta property="og:description" content="Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go">
 
-<meta property="og:site_name" content="Gitea: Git with a cup of tea">
+	<meta property="og:site_name" content="Gitea: Git with a cup of tea">
+	<link rel="stylesheet" href="/assets/css/index.css?v=1.20.0~dev-930-g595e8abd6">
 
-	<link rel="stylesheet" href="/assets/css/theme-auto.css?v=1.20.0~dev-790-g61ad4c607">
+	<link rel="stylesheet" href="/assets/css/theme-auto.css?v=1.20.0~dev-930-g595e8abd6">
 
 
+	
 </head>
 <body>
 	
@@ -127,7 +127,7 @@
 		<div class="ui divider"></div>
 		<br>
 		<p>The page you are trying to reach either <strong>does not exist</strong> or <strong>you are not authorized</strong> to view it.
-		<p>Gitea Version: 1.20.0&#43;dev-790-g61ad4c607</p>
+		<p>Gitea Version: 1.20.0&#43;dev-930-g595e8abd6</p>
 	</div>
 </div>
 
@@ -155,11 +155,11 @@
 		
 			Version:
 			
-				1.20.0&#43;dev-790-g61ad4c607
+				1.20.0&#43;dev-930-g595e8abd6
 			
 		
 		
-			Page: <strong>2ms</strong>
+			Page: <strong>1ms</strong>
 			Template: <strong>0ms</strong>
 		
 	</div>
@@ -233,7 +233,7 @@
 
 
 
-	<script src="/assets/js/index.js?v=1.20.0~dev-790-g61ad4c607" onerror="alert('Failed to load asset files from ' + this.src + '. Please make sure the asset files can be accessed.')"></script>
+	<script src="/assets/js/index.js?v=1.20.0~dev-930-g595e8abd6" onerror="alert('Failed to load asset files from ' + this.src + '. Please make sure the asset files can be accessed.')"></script>
 
 </body>
 </html>
