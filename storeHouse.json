@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "storeHouse",
-      "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/source.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/mlabalabala/TVResource@main/boxCfg/ori_source.json"
     },
     //{
     //  "sourceName": "😍貂蝉带飞😍",
