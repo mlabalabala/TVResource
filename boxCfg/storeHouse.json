@@ -1,13 +1,12 @@
 {
   "storeHouse": [
     {
-      "sourceName": "storeHouse",
+      "sourceName": "默认",
       "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/ori_source.json"
     },
-    //{
-    //  "sourceName": "😍貂蝉带飞😍",
-    //  "sourceUrl": "http://52bsj.vip:98/yp"
-    //  "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/52pjyp.json"
-    //},
+    {
+      "sourceName": "起飞",
+      "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/sp_source.json"
+    },
   ]
 }
