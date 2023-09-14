@@ -2,11 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "默认",
-      "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/ori_source.json"
+      "sourceUrl": "https://raw.gitmirror.com/mlabalabala/TVResource/main/boxCfg/ori_source.json"
     },
     {
       "sourceName": "起飞",
-      "sourceUrl": "https://raw.iqiq.io/mlabalabala/TVResource/main/boxCfg/sp_source.json"
+      "sourceUrl": "https://raw.gitmirror.com/mlabalabala/TVResource/main/boxCfg/sp_source.json"
     }
   ]
 }
