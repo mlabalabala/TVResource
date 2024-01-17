@@ -1,6 +1,6 @@
 {
   "urls": [
-    {"name":"备份线路集","url":"clan:///box"},
+    {"name":"备份线路集","url":"clan://localhost/box"},
     {
       "name": "🍚太硬",
       "url": "http://饭太硬.top/tv/"
