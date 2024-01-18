@@ -2,11 +2,15 @@
   "urls": [
     {"name":"备份线路集","url":"clan://localhost/box"},
     {
-      "name": "🍚太硬",
+      "name": "饭太硬",
       "url": "http://饭太硬.top/tv/"
     },
     {
-      "name": "l浪里小白龙",
+      "name": "🐼肥猫",
+      "url": "http://肥猫.live"
+    },
+    {
+      "name": "浪里小白龙",
       "url": "http://39.101.135.137:8080"
     },
     {
@@ -14,63 +18,59 @@
       "url": "https://wds.ecsxs.com/230989.json"
     },
     {
-      "name": "🐼肥猫",
-      "url": "http://肥猫.live"
-    },
-    {
-      "name": "🌼菜妮丝",
+      "name": "菜妮丝",
       "url": "https://tvbox.cainisi.cf"
     },
     {
-      "name": "🌹小米",
+      "name": "小米",
       "url": "http://xhww.fun:63/小米/DEMO.json"
     },
     {
-      "name": "💞道长",
+      "name": "道长",
       "url": "https://pastebin.com/raw/5NHaxyGR"
     },
     {
-      "name": "🚒运输",
+      "name": "运输",
       "url": "https://cf.weixine.net/ysc.json"
     },
     {
-      "name": "🖥不好打开运输",
+      "name": "不好打开运输",
       "url": "https://weixine.net/ysc.json"
     },
     {
-      "name": "🌼云星",
+      "name": "云星",
       "url": "https://itvbox.cc/tvbox/云星日记/1.m3u8"
     },
     {
-      "name": "🍀俊宇",
+      "name": "俊宇",
       "url": "http://home.jundie.top:81/top98.json"
     },
     {
-      "name": "🍃吾爱",
+      "name": "吾爱",
       "url": "http://52bsj.vip:98/wuai"
     },
     {
-      "name": "💦巧技",
+      "name": "巧技",
       "url": "http://pandown.pro/tvbox/tvbox.json"
     },
     {
-      "name": "📿神器",
+      "name": "神器",
       "url": "https://神器每日推送.tk/pz.json"
     },
     {
-      "name": "🎀RAY",
+      "name": "RAY",
       "url": "https://xhdwc.tk/0"
     },
     {
-      "name": "🐕老刘备",
+      "name": "老刘备",
       "url": "https://raw.liucn.cc/box/m.json"
     },
     {
-      "name": "🌿月光宝盒",
+      "name": "月光宝盒",
       "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json"
     },
     {
-      "name": "🏡奇奇",
+      "name": "奇奇",
       "url": "https://jihulab.com/lxhfans/TV/-/raw/master/tv.txt"
     },
     {
@@ -90,7 +90,7 @@
       "url": " http://tvkj.top/DC/ysc/tvkj/svip.json"
     },
     {
-      "name": "✨星辰",
+      "name": "星辰",
       "url": "http://8.210.232.168/xc.json"
     },
     {
