@@ -1,6 +1,6 @@
 {
   "urls": [
-    {"name":"备份线路集","url":"clan://localhost/zbf"},
+    {"name":"备份线路集","url":"http://www.bunnyabc.eu.org:15678/tvbox/my.json"},
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=",
       "name": "家庭线路1"
@@ -12,14 +12,6 @@
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=",
       "name": "学习娱乐线路3"
-    },
-    {
-      "name": "饭太硬",
-      "url": "http://饭太硬.top/tv/"
-    },
-    {
-      "name": "肥猫",
-      "url": "http://肥猫.live"
     },
     {
       "url": "https://gitee.com/hpuswl/tvbox-gao/raw/master/0826.json",
@@ -38,6 +30,14 @@
       "name": "香雅情 XYQ"
     },
     {"name":"---上为社区源-分割线-下为作者源---","url":"clan://localhost/fgx"},
+    {
+      "name": "饭太硬",
+      "url": "http://饭太硬.top/tv/"
+    },
+    {
+      "name": "肥猫",
+      "url": "http://肥猫.live"
+    },
     {
       "name": "浪里小白龙",
       "url": "http://39.101.135.137:8080"
