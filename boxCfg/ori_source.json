@@ -2,6 +2,18 @@
   "urls": [
     {"name":"备份线路集","url":"clan://localhost/zbf"},
     {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=",
+      "name": "家庭线路1"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=",
+      "name": "阿里4k-token线路2"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=",
+      "name": "学习娱乐线路3"
+    },
+    {
       "name": "饭太硬",
       "url": "http://饭太硬.top/tv/"
     },
