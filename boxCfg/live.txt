@@ -1,4 +1,5 @@
 频道,#genre#
+小福利,https://www.bunnyabc.eu.org:15245/d/share/t.mp4?sign=3dcqpZpb6x1EoQgtOwF9lrfJ24YyvGRY9i9hhRHEuNQ=:0
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
