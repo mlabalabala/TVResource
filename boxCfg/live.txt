@@ -2,7 +2,6 @@
 
 全球变冷,http://www.bunnyabc.eu.org:5002/chfs/shared/share/res/v/qiblmv.mp4
 
-央视频道,#genre#
 CCTV1,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://111.15.174.107:8969/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://171.116.58.215:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -126,7 +125,7 @@ CCTV16,http://42.5.185.253:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&au
 CCTV16,http://221.234.25.122:9999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://42.5.185.253:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://42.5.185.242:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
-卫视频道,#genre#
+
 上海卫视,http://171.116.58.215:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://59.48.75.130:3052/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://124.90.208.196:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -274,7 +273,7 @@ CCTV17,http://42.5.185.242:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&au
 黑龙江卫视,http://221.226.4.10:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://112.235.202.209:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://61.136.67.238:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-其他频道,#genre#
+
 CETV2,http://111.225.115.1:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://221.234.25.122:9999/tsfile/live/0128_2.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://112.235.202.225:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
