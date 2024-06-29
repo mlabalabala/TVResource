@@ -147,64 +147,64 @@ rm -f test.html tempip.txt tmp_onlyip tmp_onlyport $ipfile
 # rm -f test.html tempip.txt tmp_onlyip tmp_onlyport
 echo $(cat $onlyip|wc -l)"个IP" $(cat $onlyport|wc -l)"个端口"
 
-echo "开始遍历ip和端口组合..."
-# 遍历ip和端口组合
-while IFS= read -r ip; do
-    while IFS= read -r port; do
-        # 尝试连接 IP 地址和端口号
-        # nc -w 1 -v -z $ip $port
-        output=$(nc -w 1 -v -z "$ip" "$port" 2>&1)
-	echo $output
-        # 如果连接成功，且输出包含 "succeeded"，则将结果保存到输出文件中
-        if [[ $output == *"succeeded"* ]]; then
-            # 使用 awk 提取 IP 地址和端口号对应的字符串，并保存到输出文件中
-            echo "$output" | grep "succeeded" | awk -v ip="$ip" -v port="$port" '{print ip ":" port}' >> "$ipfile"
-        fi
-    done < "$onlyport"
-done < "$onlyip"
-echo "遍历ip和端口组合结束!!!"
+# echo "开始遍历ip和端口组合..."
+# # 遍历ip和端口组合
+# while IFS= read -r ip; do
+#     while IFS= read -r port; do
+#         # 尝试连接 IP 地址和端口号
+#         # nc -w 1 -v -z $ip $port
+#         output=$(nc -w 1 -v -z "$ip" "$port" 2>&1)
+# 	echo $output
+#         # 如果连接成功，且输出包含 "succeeded"，则将结果保存到输出文件中
+#         if [[ $output == *"succeeded"* ]]; then
+#             # 使用 awk 提取 IP 地址和端口号对应的字符串，并保存到输出文件中
+#             echo "$output" | grep "succeeded" | awk -v ip="$ip" -v port="$port" '{print ip ":" port}' >> "$ipfile"
+#         fi
+#     done < "$onlyport"
+# done < "$onlyip"
+# echo "遍历ip和端口组合结束!!!"
 
-rm -f $onlyip $onlyport
-echo "===============检索完成================="
+# rm -f $onlyip $onlyport
+# echo "===============检索完成================="
 
-# 检查文件是否存在
-if [ ! -f "$ipfile" ]; then
-    echo "错误：文件 $ipfile 不存在。"
-    exit 1
-fi
+# # 检查文件是否存在
+# if [ ! -f "$ipfile" ]; then
+#     echo "错误：文件 $ipfile 不存在。"
+#     exit 1
+# fi
 
-lines=$(cat "$ipfile" | wc -l)
-echo "【$ipfile文件】内ip共计$lines个"
+# lines=$(cat "$ipfile" | wc -l)
+# echo "【$ipfile文件】内ip共计$lines个"
 
-while read line; do
-    i=$(($i + 1))
-    ip=$line
-    url="http://$ip/$stream"
-    echo $url
-    curl $url --connect-timeout 3 --max-time 10 -o /dev/null >zubo.tmp 2>&1
-    a=$(head -n 3 zubo.tmp | awk '{print $NF}' | tail -n 1)
+# while read line; do
+#     i=$(($i + 1))
+#     ip=$line
+#     url="http://$ip/$stream"
+#     echo $url
+#     curl $url --connect-timeout 3 --max-time 10 -o /dev/null >zubo.tmp 2>&1
+#     a=$(head -n 3 zubo.tmp | awk '{print $NF}' | tail -n 1)
 
-    echo "第$i/$lines个：$ip    $a"
-    echo "$ip    $a" >> "speedtest_${city}_$time.log"
-done < "$ipfile"
+#     echo "第$i/$lines个：$ip    $a"
+#     echo "$ip    $a" >> "speedtest_${city}_$time.log"
+# done < "$ipfile"
 
-rm -f zubo.tmp
-cat "speedtest_${city}_$time.log" | grep -E 'M|k' | awk '{print $2"  "$1}' | sort -n -r >"result/result_${city}.txt"
-cat "result/result_${city}.txt"
-ip1=$(head -n 1 result/result_${city}.txt | awk '{print $2}')
-ip2=$(head -n 2 result/result_${city}.txt | tail -n 1 | awk '{print $2}')
-ip3=$(head -n 3 result/result_${city}.txt | tail -n 1 | awk '{print $2}')
-rm -f speedtest_${city}_$time.log
+# rm -f zubo.tmp
+# cat "speedtest_${city}_$time.log" | grep -E 'M|k' | awk '{print $2"  "$1}' | sort -n -r >"result/result_${city}.txt"
+# cat "result/result_${city}.txt"
+# ip1=$(head -n 1 result/result_${city}.txt | awk '{print $2}')
+# ip2=$(head -n 2 result/result_${city}.txt | tail -n 1 | awk '{print $2}')
+# ip3=$(head -n 3 result/result_${city}.txt | tail -n 1 | awk '{print $2}')
+# rm -f speedtest_${city}_$time.log
 
-#----------------------用3个最快ip生成对应城市的txt文件---------------------------
-program="template/template_${city}.txt"
-sed "s/ipipip/$ip1/g" $program >tmp1.txt
-sed "s/ipipip/$ip2/g" $program >tmp2.txt
-sed "s/ipipip/$ip3/g" $program >tmp3.txt
-cat tmp1.txt tmp2.txt tmp3.txt >live.txt
-rm -rf tmp1.txt tmp2.txt tmp3.txt
+# #----------------------用3个最快ip生成对应城市的txt文件---------------------------
+# program="template/template_${city}.txt"
+# sed "s/ipipip/$ip1/g" $program >tmp1.txt
+# sed "s/ipipip/$ip2/g" $program >tmp2.txt
+# sed "s/ipipip/$ip3/g" $program >tmp3.txt
+# cat tmp1.txt tmp2.txt tmp3.txt >live.txt
+# rm -rf tmp1.txt tmp2.txt tmp3.txt
 
-# for a in result/*.txt; do echo "========================= $(basename "$a") ==================================="; cat $a; done  > result_all.txt 
+# # for a in result/*.txt; do echo "========================= $(basename "$a") ==================================="; cat $a; done  > result_all.txt 
 
-sed -i '1s;^;频道,#genre#\n;' live.txt
+# sed -i '1s;^;频道,#genre#\n;' live.txt
 mv live.txt ../boxCfg/live.txt
