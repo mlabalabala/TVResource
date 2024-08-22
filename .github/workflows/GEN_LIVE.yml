@@ -34,12 +34,13 @@ jobs:
         git add .
         git commit -m "Update results"
         git push
-    - name: Mirror the Github repos to Gitee.
-      uses: Yikun/hub-mirror-action@master
-      with:
-        src: github/mlabalabala
-        dst: gitee/mlabalabala
-        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-        dst_token: ${{ secrets.GITEE_TOKEN }}
-        static_list: "TVResource"
-        force_update: true
+        
+    # - name: Mirror the Github repos to Gitee.
+    #   uses: Yikun/hub-mirror-action@master
+    #   with:
+    #     src: github/mlabalabala
+    #     dst: gitee/mlabalabala
+    #     dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+    #     dst_token: ${{ secrets.GITEE_TOKEN }}
+    #     static_list: "TVResource"
+    #     force_update: true
