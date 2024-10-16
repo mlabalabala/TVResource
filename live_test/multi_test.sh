@@ -8,7 +8,6 @@ echo 3
 bash livetest.sh 3 > /dev/null 2>&1
 echo 4
 bash livetest.sh 4 > /dev/null 2>&1
-cat *.tmp > live.txt
-rm -f *.tmp
 sed -i '1s;^;频道,#genre#\n;' live.txt
-mv live.txt ../boxCfg/
+cat ../boxCfg/*.tmp > ../boxCfg/live.txt
+rm -f ../boxCfg/*.tmp
