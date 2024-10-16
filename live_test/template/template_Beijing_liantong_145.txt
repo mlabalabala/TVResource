@@ -16,25 +16,26 @@ CCTV15音乐,http://ipipip/rtp/239.3.1.153:8136
 CCTV17农村农业,http://ipipip/rtp/239.3.1.151:8144
 CCTV16 奥林匹克[HDR],http://ipipip/rtp/239.3.1.183:8001
 CCTV16 奥林匹克HD,http://ipipip/rtp/239.3.1.184:8001
-CCTV-5+ HD,http://ipipip/rtp/239.3.1.130:8004
-湖南卫视HD,http://ipipip/rtp/239.3.1.132:8012
-东方卫视HD,http://ipipip/rtp/239.3.1.136:8032
-浙江卫视HD,http://ipipip/rtp/239.3.1.137:8036
-江苏卫视HD,http://ipipip/rtp/239.3.1.135:8028
-深圳卫视HD,http://ipipip/rtp/239.3.1.134:8020
-广东卫视HD,http://ipipip/rtp/239.3.1.142:8048
-安徽卫视HD,http://ipipip/rtp/239.3.1.211:8064
-天津卫视HD,http://ipipip/rtp/239.3.1.141:1234
-重庆卫视HD,http://ipipip/rtp/239.3.1.122:8160
-山东卫视HD,http://ipipip/rtp/239.3.1.209:8052
-黑龙江卫视HD,http://ipipip/rtp/239.3.1.133:8016
-河北卫视HD,http://ipipip/rtp/239.3.1.148:8072
-辽宁卫视HD,http://ipipip/rtp/239.3.1.210:8056
-湖北卫视HD,http://ipipip/rtp/239.3.1.138:8044
-吉林卫视HD,http://ipipip/rtp/239.3.1.240:8172
-贵州卫视HD,http://ipipip/rtp/239.3.1.149:8076
-东南卫视HD,http://ipipip/rtp/239.3.1.156:8148
-江西卫视HD,http://ipipip/rtp/239.3.1.123:8164
+BRTV卡酷少儿HD,http://ipipip/rtp/239.3.1.189:8000
+金鹰卡通,http://ipipip/rtp/239.3.1.51:9252
+湖南卫视,http://ipipip/rtp/239.3.1.132:8012
+东方卫视,http://ipipip/rtp/239.3.1.136:8032
+浙江卫视,http://ipipip/rtp/239.3.1.137:8036
+江苏卫视,http://ipipip/rtp/239.3.1.135:8028
+深圳卫视,http://ipipip/rtp/239.3.1.134:8020
+广东卫视,http://ipipip/rtp/239.3.1.142:8048
+安徽卫视,http://ipipip/rtp/239.3.1.211:8064
+天津卫视,http://ipipip/rtp/239.3.1.141:1234
+重庆卫视,http://ipipip/rtp/239.3.1.122:8160
+山东卫视,http://ipipip/rtp/239.3.1.209:8052
+黑龙江卫视,http://ipipip/rtp/239.3.1.133:8016
+河北卫视,http://ipipip/rtp/239.3.1.148:8072
+辽宁卫视,http://ipipip/rtp/239.3.1.210:8056
+湖北卫视,http://ipipip/rtp/239.3.1.138:8044
+吉林卫视,http://ipipip/rtp/239.3.1.240:8172
+贵州卫视,http://ipipip/rtp/239.3.1.149:8076
+东南卫视,http://ipipip/rtp/239.3.1.156:8148
+江西卫视,http://ipipip/rtp/239.3.1.123:8164
 海南卫视,http://ipipip/rtp/239.3.1.45:8304
 云南卫视,http://ipipip/rtp/239.3.1.26:8108
 兵团卫视,http://ipipip/rtp/239.3.1.144:4120
@@ -53,7 +54,8 @@ CCTV-5+ HD,http://ipipip/rtp/239.3.1.130:8004
 青海卫视,http://ipipip/rtp/239.3.1.44:8184
 内蒙古卫视,http://ipipip/rtp/239.3.1.43:8176
 爱上4K[超清],http://ipipip/rtp/239.3.1.236:2000
-BRTV北京卫视HD,http://ipipip/rtp/239.3.1.241:8000
+CCTV-5+ HD,http://ipipip/rtp/239.3.1.130:8004
+BRTV北京卫视,http://ipipip/rtp/239.3.1.241:8000
 BRTV新闻HD,http://ipipip/rtp/239.3.1.159:8000
 BRTV影视HD,http://ipipip/rtp/239.3.1.158:8000
 BRTV文艺HD,http://ipipip/rtp/239.3.1.242:8000
@@ -61,7 +63,6 @@ BRTV财经HD,http://ipipip/rtp/239.3.1.116:8000
 BRTV生活HD,http://ipipip/rtp/239.3.1.117:8000
 BRTV青年HD,http://ipipip/# rtp/239.3.1.118:8000
 BRTV纪实科教HD,http://ipipip/rtp/239.3.1.115:8000
-BRTV卡酷少儿HD,http://ipipip/rtp/239.3.1.189:8000
 BRTV冬奥纪实HD,http://ipipip/# rtp/239.3.1.243:8000
 BRTV冬奥纪实[HDR],http://ipipip/# rtp/239.3.1.120:8000
 BRTV冬奥纪实[超清],http://ipipip/# rtp/239.3.1.121:8000
@@ -138,7 +139,6 @@ CETV4,http://ipipip/rtp/239.3.1.56:4120
 美妆,http://ipipip/rtp/239.3.1.72:4120
 财富天下,http://ipipip/rtp/239.3.1.53:9136
 足球,http://ipipip/rtp/239.3.1.89:4120
-金鹰卡通,http://ipipip/rtp/239.3.1.51:9252
 鉴赏,http://ipipip/rtp/239.3.1.82:4120
 音乐现场,http://ipipip/rtp/239.3.1.70:4120
 高网,http://ipipip/rtp/239.3.1.88:4120
