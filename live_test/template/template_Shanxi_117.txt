@@ -3,7 +3,6 @@ CCTV2高清,http://ipipip/udp/239.1.1.8:8008
 CCTV3高清,http://ipipip/udp/239.1.1.9:8009
 CCTV4高清,http://ipipip/udp/239.1.1.10:8010
 CCTV5高清,http://ipipip/udp/239.1.1.11:8011
-CCTV5+高清,http://ipipip/udp/239.1.1.12:8012
 CCTV6高清,http://ipipip/udp/239.1.1.13:8013
 CCTV7,http://ipipip/udp/239.1.1.14:8014
 CCTV8高清,http://ipipip/udp/239.1.1.15:8015
@@ -16,6 +15,7 @@ CCTV14高清,http://ipipip/udp/239.1.1.21:8021
 CCTV15,http://ipipip/udp/239.1.1.22:8022
 CCTV16高清,http://ipipip/udp/239.1.1.122:8122
 CCTV17高清,http://ipipip/udp/239.1.1.23:8023
+CCTV5+高清,http://ipipip/udp/239.1.1.12:8012
 CCTV女性时尚高清,http://ipipip/udp/239.1.1.89:8089
 CCTV电视指南高清,http://ipipip/udp/239.1.1.90:8090
 CCTV央视文化精品高清,http://ipipip/udp/239.1.1.91:8091

@@ -1,21 +1,22 @@
-CCTV-1 HD,http://ipipip/rtp/239.3.1.129:8008
-CCTV-2 HD,http://ipipip/rtp/239.3.1.60:8084
-CCTV-3 HD,http://ipipip/rtp/239.3.1.172:8001
-CCTV-4 HD,http://ipipip/rtp/239.3.1.105:8092
-CCTV-5 HD,http://ipipip/rtp/239.3.1.173:8001
-CCTV-6 HD,http://ipipip/rtp/239.3.1.174:8001
-CCTV-7 HD,http://ipipip/rtp/239.3.1.61:8104
-CCTV-8 HD,http://ipipip/rtp/239.3.1.175:8001
-CCTV-9 HD,http://ipipip/rtp/239.3.1.62:8112
-CCTV-10 HD,http://ipipip/rtp/239.3.1.63:8116
-CCTV-11 HD,http://ipipip/rtp/239.3.1.152:8120
-CCTV-12 HD,http://ipipip/rtp/239.3.1.64:8124
-CCTV-13 HD,http://ipipip/rtp/239.3.1.124:8128
-CCTV-14 HD,http://ipipip/rtp/239.3.1.65:8132
-CCTV-15 HD,http://ipipip/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[HDR],http://ipipip/rtp/239.3.1.183:8001
-CCTV-16 奥林匹克HD,http://ipipip/rtp/239.3.1.184:8001
-CCTV-17 HD,http://ipipip/rtp/239.3.1.151:8144
+CCTV1综合,http://ipipip/rtp/239.3.1.129:8008
+CCTV2财经,http://ipipip/rtp/239.3.1.60:8084
+CCTV3综艺,http://ipipip/rtp/239.3.1.172:8001
+CCTV4中文国际,http://ipipip/rtp/239.3.1.105:8092
+CCTV5体育,http://ipipip/rtp/239.3.1.173:8001
+CCTV6电影,http://ipipip/rtp/239.3.1.174:8001
+CCTV7国防军事,http://ipipip/rtp/239.3.1.61:8104
+CCTV8电视剧,http://ipipip/rtp/239.3.1.175:8001
+CCTV9记录,http://ipipip/rtp/239.3.1.62:8112
+CCTV10科教,http://ipipip/rtp/239.3.1.63:8116
+CCTV11戏曲,http://ipipip/rtp/239.3.1.152:8120
+CCTV12社会与法,http://ipipip/rtp/239.3.1.64:8124
+CCTV13新闻,http://ipipip/rtp/239.3.1.124:8128
+CCTV14少儿,http://ipipip/rtp/239.3.1.65:8132
+CCTV15音乐,http://ipipip/rtp/239.3.1.153:8136
+CCTV17农村农业,http://ipipip/rtp/239.3.1.151:8144
+CCTV16 奥林匹克[HDR],http://ipipip/rtp/239.3.1.183:8001
+CCTV16 奥林匹克HD,http://ipipip/rtp/239.3.1.184:8001
+CCTV-5+ HD,http://ipipip/rtp/239.3.1.130:8004
 湖南卫视HD,http://ipipip/rtp/239.3.1.132:8012
 东方卫视HD,http://ipipip/rtp/239.3.1.136:8032
 浙江卫视HD,http://ipipip/rtp/239.3.1.137:8036
@@ -51,7 +52,7 @@ CCTV-17 HD,http://ipipip/rtp/239.3.1.151:8144
 陕西卫视,http://ipipip/rtp/239.3.1.41:8140
 青海卫视,http://ipipip/rtp/239.3.1.44:8184
 内蒙古卫视,http://ipipip/rtp/239.3.1.43:8176
-CCTV-5+ HD,http://ipipip/rtp/239.3.1.130:8004
+爱上4K[超清],http://ipipip/rtp/239.3.1.236:2000
 BRTV北京卫视HD,http://ipipip/rtp/239.3.1.241:8000
 BRTV新闻HD,http://ipipip/rtp/239.3.1.159:8000
 BRTV影视HD,http://ipipip/rtp/239.3.1.158:8000
@@ -66,7 +67,6 @@ BRTV冬奥纪实[HDR],http://ipipip/# rtp/239.3.1.120:8000
 BRTV冬奥纪实[超清],http://ipipip/# rtp/239.3.1.121:8000
 BRTV体育休闲[超清],http://ipipip/rtp/239.3.1.243:8000
 BTV国际频道,http://ipipip/rtp/239.3.1.235:8000
-爱上4K[超清],http://ipipip/rtp/239.3.1.236:2000
 4K超清[超清],http://ipipip/rtp/239.3.1.249:8001
 淘电影HD,http://ipipip/rtp/239.3.1.250:8001
 每日影院HD,http://ipipip/# rtp/239.3.1.111:8001
