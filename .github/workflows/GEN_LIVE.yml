@@ -1,8 +1,8 @@
 name: GEN_LIVE
 
 on:
-  schedule:
-    - cron: "26 9,10 * * *"
+  #schedule:
+  #  - cron: "26 9,10 * * *"
   workflow_dispatch:
 
 jobs:
